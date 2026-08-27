@@ -1,0 +1,62 @@
+scripts/test/foundation.test.mjs
+  s_af1d4955d8c11f::t_1c75c9465aef97 9-12,42-55,58
+  s_af1d4955d8c11f::t_a2e5187728fe1d 67
+  s_af1d4955d8c11f::t_3f509842c927a0 56-57
+  s_af1d4955d8c11f::t_6a66826b685489 59-60
+whip-whep-server/README.md
+  s_af1d4955d8c11f::t_a2e5187728fe1d 3
+echo/README.md
+  s_af1d4955d8c11f::t_a2e5187728fe1d 3
+README.md
+  s_af1d4955d8c11f::t_d938acadcacc85 6-7,9,11,13-15,17-18,20-24,26-27,29,31,33-53,55,57-60,62-64,66,68-69,71-86,88-89,91,93-95,97,105
+turn-go/README.md
+  s_af1d4955d8c11f::t_a2e5187728fe1d 3
+schemas/catalog.schema.json
+  s_af1d4955d8c11f::t_a2e5187728fe1d 10,21,75,126,191
+  s_af1d4955d8c11f::t_cee4f9c008aa60 180
+  s_af1d4955d8c11f::t_a4ff98cd8317d2 182
+  s_af1d4955d8c11f::t_d76c53dc60699a 174-177,181,183-190
+  s_af1d4955d8c11f::t_6c109cc7719961 31,34,37,50
+  s_af1d4955d8c11f::t_b13564e5a1dd09 178-179
+catalog.yaml
+  s_af1d4955d8c11f::t_a2e5187728fe1d 4,27,51,76,97,118,140,163,187,209,233
+blueprints/README.md
+  s_af1d4955d8c11f::t_383c13190ebd08 3-4,6-29,37,44-63,74,120-123
+echo-datachannels/README.md
+  s_af1d4955d8c11f::t_a2e5187728fe1d 3
+video-to-jpeg/README.md
+  s_af1d4955d8c11f::t_a2e5187728fe1d 3
+scripts/lib/metadata.mjs
+  s_af1d4955d8c11f::t_a2e5187728fe1d 78-79,90,92,97,242,244
+ai-tts-stt/README.md
+  s_af1d4955d8c11f::t_a2e5187728fe1d 3
+echo-simulcast/README.md
+  s_af1d4955d8c11f::t_a2e5187728fe1d 3
+schemas/blueprint.schema.json
+  s_af1d4955d8c11f::t_a2e5187728fe1d 12,38
+sfu-turn-go/README.md
+  s_af1d4955d8c11f::t_a2e5187728fe1d 3
+openai-webrtc-relay/README.md
+  s_af1d4955d8c11f::t_a2e5187728fe1d 3
+AGENTS.md
+  s_af1d4955d8c11f::t_6c109cc7719961 5,15-17,35
+  s_af1d4955d8c11f::t_d76c53dc60699a 7,10-12
+tts-ws/README.md
+  s_af1d4955d8c11f::t_a2e5187728fe1d 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "dc83e8bd1bf5f7506d09053bc8cb4732c66f4b88",
+  "prompts": {},
+  "sessions": {
+    "s_af1d4955d8c11f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a04442-1aa6-7e02-8a59-fec095e87cdf",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rachel Chen <rchen@cloudflare.com>"
+    }
+  }
+}
