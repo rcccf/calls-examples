@@ -1,0 +1,138 @@
+README.md
+  s_af1d4955d8c11f::t_9d16c39f607454 3-5,8,10,12,16,19,25,28,30,32,54,56,61,65,67,70,87,90,104
+  s_af1d4955d8c11f::t_d938acadcacc85 6-7,9,11,13-15,17-18,20-24,26-27,29,31,33-53,55,57-60,62-64,66,68-69,71-86,88-89,91,93-95,97,105
+  s_af1d4955d8c11f::t_9896f521964af7 1-2,92,96,98-103
+scripts/blueprint-matrix.mjs
+  s_af1d4955d8c11f::t_293e183905d2d0 1-20
+openai-webrtc-relay/README.md
+  s_af1d4955d8c11f::t_14d0ff8cf56bd4 1,4-12,33
+  s_af1d4955d8c11f::t_a2e5187728fe1d 3
+scripts/test/foundation.test.mjs
+  s_af1d4955d8c11f::t_d21f6c46a24ea9 83-87
+  s_af1d4955d8c11f::t_c18da4a8e8aa95 62
+  s_af1d4955d8c11f::t_6a66826b685489 59-60
+  s_af1d4955d8c11f::t_adee818a6f049f 99-100
+  s_af1d4955d8c11f::t_2689cfc596738a 68-71
+  s_af1d4955d8c11f::t_293e183905d2d0 1,3-4,7-8,13-23,88-98,101-103,109-112
+  s_af1d4955d8c11f::t_e41d3aeba1c626 105
+  s_af1d4955d8c11f::t_1c75c9465aef97 9-12,42-55,58
+  s_af1d4955d8c11f::t_616fbfe494594f 2,5-6,24-39,66,72,77,82
+  s_af1d4955d8c11f::t_a2e5187728fe1d 67
+  s_af1d4955d8c11f::t_3f509842c927a0 56-57
+  s_af1d4955d8c11f::t_49de586488e0cc 78-81
+  s_af1d4955d8c11f::t_954da381c46419 73-76
+  s_af1d4955d8c11f::t_6025589b5198e1 104,106-108
+  s_af1d4955d8c11f::t_55c85f1cacc0af 40-41,61,63-65
+scripts/lib/secrets.mjs
+  s_af1d4955d8c11f::t_6025589b5198e1 46-50,57,85-94
+  s_af1d4955d8c11f::t_293e183905d2d0 1-45,51-56,58-84,95-163,166-168
+  s_af1d4955d8c11f::t_40c34d351d7083 165
+  s_af1d4955d8c11f::t_cd0b900da79630 164
+echo/README.md
+  s_af1d4955d8c11f::t_a2e5187728fe1d 3
+  s_af1d4955d8c11f::t_14d0ff8cf56bd4 4-10
+ai-tts-stt/README.md
+  s_af1d4955d8c11f::t_a2e5187728fe1d 3
+  s_af1d4955d8c11f::t_14d0ff8cf56bd4 4-8,220
+scripts/lib/matrix.mjs
+  s_af1d4955d8c11f::t_68df6a67f30bd9 1-9
+.gitignore
+  s_af1d4955d8c11f::t_d02b1d1dc62067 1-12
+blueprints/README.md
+  s_af1d4955d8c11f::t_9896f521964af7 1-2,5,30-36,38-43,64-73,75-119
+  s_af1d4955d8c11f::t_383c13190ebd08 3-4,6-29,37,44-63,74,120-123
+scripts/lib/links.mjs
+  s_af1d4955d8c11f::t_6025589b5198e1 20-25
+  s_af1d4955d8c11f::t_293e183905d2d0 1-19,26-79
+sfu-turn-go/README.md
+  s_af1d4955d8c11f::t_14d0ff8cf56bd4 1,4-10,14-18,22-28
+  s_af1d4955d8c11f::t_a2e5187728fe1d 3
+AGENTS.md
+  s_af1d4955d8c11f::t_d76c53dc60699a 7,10-12
+  s_af1d4955d8c11f::t_33269b11c5a187 49-50
+  s_af1d4955d8c11f::t_9896f521964af7 1-4,6,8-9,13-14,18-34,36-48
+  s_af1d4955d8c11f::t_6c109cc7719961 5,15-17,35
+scripts/scan-secrets.mjs
+  s_af1d4955d8c11f::t_293e183905d2d0 1-49
+  s_af1d4955d8c11f::t_9f9ecbb4526f7a 50
+echo-simulcast/README.md
+  s_af1d4955d8c11f::t_14d0ff8cf56bd4 4-10
+  s_af1d4955d8c11f::t_a2e5187728fe1d 3
+schemas/blueprint.schema.json
+  s_af1d4955d8c11f::t_a2e5187728fe1d 12,38
+  s_af1d4955d8c11f::t_cee4f9c008aa60 1-11,13-37,39-224
+tts-ws/README.md
+  s_af1d4955d8c11f::t_a2e5187728fe1d 3
+  s_af1d4955d8c11f::t_14d0ff8cf56bd4 4-8,103
+package.json
+  s_af1d4955d8c11f::t_cd0b900da79630 13
+  s_af1d4955d8c11f::t_cee4f9c008aa60 1-12,14-21
+turn-go/README.md
+  s_af1d4955d8c11f::t_14d0ff8cf56bd4 4-11,15-19,23-29
+  s_af1d4955d8c11f::t_a2e5187728fe1d 3
+schemas/catalog.schema.json
+  s_af1d4955d8c11f::t_e8a42199754686 163
+  s_af1d4955d8c11f::t_3db1872d1f284c 168-173,192-207
+  s_af1d4955d8c11f::t_b13564e5a1dd09 178-179
+  s_af1d4955d8c11f::t_689c3e9970b803 165-167
+  s_af1d4955d8c11f::t_517c3e634be56a 158
+  s_af1d4955d8c11f::t_d76c53dc60699a 174-177,181,183-190
+  s_af1d4955d8c11f::t_6025589b5198e1 136,138-139,152
+  s_af1d4955d8c11f::t_b23343edb1f802 153-155
+  s_af1d4955d8c11f::t_6c109cc7719961 31,34,37,50
+  s_af1d4955d8c11f::t_a4ff98cd8317d2 182
+  s_af1d4955d8c11f::t_cee4f9c008aa60 1-9,11-20,22-30,32-33,35-36,38-49,51-74,76-125,127-135,140-149,156-157,159-162,164,180
+  s_af1d4955d8c11f::t_5c55f0d44c87a1 151
+  s_af1d4955d8c11f::t_72c6f918264d08 137,150
+  s_af1d4955d8c11f::t_a2e5187728fe1d 10,21,75,126,191
+.github/workflows/validate-examples.yml
+  s_af1d4955d8c11f::t_d02b1d1dc62067 1-43
+video-to-jpeg/README.md
+  s_af1d4955d8c11f::t_14d0ff8cf56bd4 4-8
+  s_af1d4955d8c11f::t_a2e5187728fe1d 3
+scripts/validate-links.mjs
+  s_af1d4955d8c11f::t_293e183905d2d0 1-14
+whip-whep-server/README.md
+  s_af1d4955d8c11f::t_a2e5187728fe1d 3
+  s_af1d4955d8c11f::t_14d0ff8cf56bd4 4-12
+catalog.yaml
+  s_af1d4955d8c11f::t_9896f521964af7 1-3,5-26,28-50,52-75,78-96,98-116,119-139,141-144,147-150
+  s_af1d4955d8c11f::t_961ae8fc46aac7 151-153
+  s_af1d4955d8c11f::t_38370635da8e5f 154-162,164-186,188-208,210-232,234-243
+  s_af1d4955d8c11f::t_fd35ee928171ce 77
+  s_af1d4955d8c11f::t_d02b1d1dc62067 117
+  s_af1d4955d8c11f::t_a2e5187728fe1d 4,27,51,76,97,118,140,163,187,209,233
+  s_af1d4955d8c11f::t_7810d2286fe3a4 145-146
+scripts/lib/metadata.mjs
+  s_af1d4955d8c11f::t_e180c2d1e2c45e 221-223
+  s_af1d4955d8c11f::t_a2e5187728fe1d 78-79,90,92,97,242,244
+  s_af1d4955d8c11f::t_dbb046e3a5b36b 224-241,243,245-265
+  s_af1d4955d8c11f::t_293e183905d2d0 1-77,80-89,91,93-96,98-220
+scripts/validate-metadata.mjs
+  s_af1d4955d8c11f::t_293e183905d2d0 1-16
+package-lock.json
+  s_af1d4955d8c11f::t_513293dc576ac3 1-93
+scripts/run-blueprint-checks.mjs
+  s_af1d4955d8c11f::t_293e183905d2d0 1-67
+echo-datachannels/README.md
+  s_af1d4955d8c11f::t_a2e5187728fe1d 3
+  s_af1d4955d8c11f::t_14d0ff8cf56bd4 4-10
+scripts/lib/files.mjs
+  s_af1d4955d8c11f::t_293e183905d2d0 1-59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "bd1192267312277ff84c03f86ba7c24883663b9f",
+  "prompts": {},
+  "sessions": {
+    "s_af1d4955d8c11f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a04442-1aa6-7e02-8a59-fec095e87cdf",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rachel Chen <rchen@cloudflare.com>"
+    }
+  }
+}
