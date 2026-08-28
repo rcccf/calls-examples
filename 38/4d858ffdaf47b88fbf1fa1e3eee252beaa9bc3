@@ -1,0 +1,53 @@
+blueprints/video-room/scripts/typegen.env
+  s_af1d4955d8c11f::t_fe14d60399d263 1
+blueprints/video-room/ARCHITECTURE.md
+  s_af1d4955d8c11f::t_b42ffa5031cecd 11-14,54-55,57-58,63-64,79-85,96-97
+blueprints/video-room/src/server/room.ts
+  s_af1d4955d8c11f::t_68f9c22945d258 309
+blueprints/video-room/package.json
+  s_af1d4955d8c11f::t_b42ffa5031cecd 9
+  s_af1d4955d8c11f::t_fe14d60399d263 8
+blueprints/video-room/tests/workerd/video-room.test.ts
+  s_af1d4955d8c11f::t_e774d001f6809d 15,21,38,54-107,109-119,140,151,241,290-298
+  s_af1d4955d8c11f::t_34efcb99634357 108
+  s_af1d4955d8c11f::t_21b029d29153ad 299-300
+blueprints/video-room/AGENTS.md
+  s_af1d4955d8c11f::t_b42ffa5031cecd 13,80-86,118
+blueprints/video-room/src/server/video-room.ts
+  s_af1d4955d8c11f::t_3d4411cd1335e9 78,87,99,107,115,127,136,145,156,162,181,183,193,211,233,260,298,308,314-315
+  s_af1d4955d8c11f::t_68f9c22945d258 1-2,12-15,39-49,52-54,56,59,62-70,74-77,79-86,88-98,100-106,108-114,116-126,128-135,137-144,146-155,157-161,163-166,168,170-173,175-177,180,182,184,201,234-236,242,248,251,283,289,300,309-313,316-321,342,359-360,364-365,367,370,388-426
+  s_af1d4955d8c11f::t_67a1f4e3c9da36 427
+blueprints/video-room/src/worker.ts
+  s_af1d4955d8c11f::t_34efcb99634357 58,69,75,86,91,96,123,140-143
+  s_af1d4955d8c11f::t_68f9c22945d258 10-11,14-17,21,25,28,47-49,59-64,66-68,70-74,76-85,87-90,92-95,97-109,114-122,124-139,144-181
+blueprints/video-room/PRODUCTION.md
+  s_af1d4955d8c11f::t_4cc0c1c3d6d8dd 86-93,169-170
+blueprints/video-room/README.md
+  s_af1d4955d8c11f::t_b42ffa5031cecd 22-23,81-86,143-148
+blueprints/video-room/architecture.mmd
+  s_af1d4955d8c11f::t_b42ffa5031cecd 9,22,30
+blueprints/video-room/architecture.svg
+  s_af1d4955d8c11f::t_b42ffa5031cecd 3,33,62
+blueprints/video-room/tsconfig.json
+  s_af1d4955d8c11f::t_e774d001f6809d 27-28
+blueprints/video-room/package-lock.json
+  s_af1d4955d8c11f::t_80c3be446b00b1 671-673
+blueprints/video-room/worker-configuration.d.ts
+  s_af1d4955d8c11f::t_8863c4ebffd93a 1-15126
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "384d858ffdaf47b88fbf1fa1e3eee252beaa9bc3",
+  "prompts": {},
+  "sessions": {
+    "s_af1d4955d8c11f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a04442-1aa6-7e02-8a59-fec095e87cdf",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rachel Chen <rchen@cloudflare.com>"
+    }
+  }
+}
