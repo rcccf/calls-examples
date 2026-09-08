@@ -1,0 +1,151 @@
+video-room/src/client/api.ts
+  s_af1d4955d8c11f::t_e66088ca37f323 1-243
+video-room/src/server/notifications.ts
+  s_af1d4955d8c11f::t_b9d38935e3e044 1-104
+video-room/scripts/remove-preview-secrets.mjs
+  s_af1d4955d8c11f::t_20b89bddbf4d55 1-31
+video-room/blueprint.yaml
+  s_af1d4955d8c11f::t_9336aa419eb7e8 4,20,24,44
+README.md
+  s_af1d4955d8c11f::t_f94adc485b2443 16-23
+  s_af1d4955d8c11f::t_b3989214424517 13-14,24-25,28,75
+  s_af1d4955d8c11f::t_9336aa419eb7e8 15,51,74,84-87,117-118
+  s_af1d4955d8c11f::t_f062e38e150f57 26-27
+video-room/src/client/safety-poller.ts
+  s_af1d4955d8c11f::t_e29323584a7a9e 1-31
+video-room/tests/workerd/setup.ts
+  s_af1d4955d8c11f::t_0ff4bc98349101 1-18
+video-room/TROUBLESHOOTING.md
+  s_af1d4955d8c11f::t_18d3404ae710af 1-136
+video-room/worker-configuration.d.ts
+  s_af1d4955d8c11f::t_8f6fffe9d64f8e 1-15126
+video-room/tests/unit/notifications.test.ts
+  s_af1d4955d8c11f::t_4aff338791692e 1-193
+video-room/tests/unit/journey.test.ts
+  s_af1d4955d8c11f::t_1f3709fead3291 1-41
+video-room/scripts/scan-browser.mjs
+  s_af1d4955d8c11f::t_cede8b4d092676 1-37
+video-room/tests/unit/room-media.test.ts
+  s_af1d4955d8c11f::t_d26d2cccffa2ea 1-778
+video-room/src/server/auth.ts
+  s_af1d4955d8c11f::t_dd677d6bdf67f9 1-140
+video-room/scripts/typegen.env
+  s_af1d4955d8c11f::t_a61995bb86c81e 1
+scripts/lib/metadata.mjs
+  s_af1d4955d8c11f::t_9336aa419eb7e8 62-68
+  s_af1d4955d8c11f::t_6a5c02b81bc57d 29,39,45-48,61
+  s_af1d4955d8c11f::t_293e183905d2d0 49-50
+video-room/ARCHITECTURE.md
+  s_af1d4955d8c11f::t_0b26a6e96c742a 1-255
+video-room/playwright.config.ts
+  s_af1d4955d8c11f::t_d4fedd67d56b8f 1-28
+video-room/tests/workerd/network.ts
+  s_af1d4955d8c11f::t_24ac4156de16fa 1-3
+video-room/src/client/open-participant.ts
+  s_af1d4955d8c11f::t_8d42c144178b71 1-6
+video-room/src/server/room.ts
+  s_af1d4955d8c11f::t_2670940275863a 1-767
+video-room/tests/workerd/video-room.test.ts
+  s_af1d4955d8c11f::t_3cac8163812dbc 1-358
+video-room/index.html
+  s_af1d4955d8c11f::t_40d4a725d1ade0 1-129
+video-room/.gitignore
+  s_af1d4955d8c11f::t_3d9b9e5d38f21a 1-4
+video-room/src/server/realtime.ts
+  s_af1d4955d8c11f::t_376aab0c4b8fc3 1-306
+AGENTS.md
+  s_af1d4955d8c11f::t_9336aa419eb7e8 7-8,11-13
+catalog.yaml
+  s_af1d4955d8c11f::t_3c1a0c273546f0 33
+  s_af1d4955d8c11f::t_f062e38e150f57 24
+  s_af1d4955d8c11f::t_9336aa419eb7e8 15,30
+  s_af1d4955d8c11f::t_b3989214424517 13-14,16-23,25-29,31-32,34-35
+video-room/README.md
+  s_af1d4955d8c11f::t_9336aa419eb7e8 1-217
+video-room/tsconfig.json
+  s_af1d4955d8c11f::t_0057f752955915 1-30
+video-room/src/server/session-mutation-queue.ts
+  s_af1d4955d8c11f::t_676fcf9f0bb68b 1-299
+video-room/AGENTS.md
+  s_af1d4955d8c11f::t_411a2d3a9c7baa 1-134
+video-room/src/server/room-state.ts
+  s_af1d4955d8c11f::t_75b0195efc1e9b 1-104
+video-room/tests/live/video-room.spec.ts
+  s_af1d4955d8c11f::t_e1b878e54dd381 1-211
+video-room/src/server/room-media.ts
+  s_af1d4955d8c11f::t_34cc91a8142040 1-725
+video-room/src/client/notifications.ts
+  s_af1d4955d8c11f::t_488c2f46374865 1-157
+scripts/lib/secrets.mjs
+  s_af1d4955d8c11f::t_e4425cc68a8c1a 1,54-91,163-169,171-189,218-220,227-229
+  s_af1d4955d8c11f::t_293e183905d2d0 170,190-196
+video-room/wrangler.jsonc
+  s_af1d4955d8c11f::t_ab7badc93bd38f 1-29
+video-room/PRODUCTION.md
+  s_af1d4955d8c11f::t_b2706f9f3a864d 1-179
+video-room/src/worker.ts
+  s_af1d4955d8c11f::t_da4b42baa78116 1-181
+video-room/vitest.config.ts
+  s_af1d4955d8c11f::t_0c76ee595ab8cb 1-16
+video-room/package.json
+  s_af1d4955d8c11f::t_80cf3555530bb0 1-38
+video-room/tests/unit/lifecycle.test.ts
+  s_af1d4955d8c11f::t_b1f25ab6f9f6ee 1-158
+video-room/package-lock.json
+  s_af1d4955d8c11f::t_3412709286c881 1-4842
+video-room/tests/workerd/wrangler.jsonc
+  s_af1d4955d8c11f::t_6c388f4736a5a9 1-24
+video-room/src/client/styles.css
+  s_af1d4955d8c11f::t_cc67dbbd1ca532 1-568
+video-room/src/client/mutation-queue.ts
+  s_af1d4955d8c11f::t_4454004b5dd927 1-118
+video-room/tests/unit/realtime.test.ts
+  s_af1d4955d8c11f::t_19d159700aaedf 1-199
+video-room/src/client/lifecycle.ts
+  s_af1d4955d8c11f::t_8f9db1aa5b4d97 1-162
+video-room/src/server/lifecycle-queue.ts
+  s_af1d4955d8c11f::t_7b93bfd71e6d1c 1-43
+video-room/tests/unit/auth.test.ts
+  s_af1d4955d8c11f::t_19455e1a298191 1-60
+video-room/architecture.svg
+  s_af1d4955d8c11f::t_f2b25550ebb8e8 1-64
+video-room/tests/unit/room-harness.ts
+  s_af1d4955d8c11f::t_6e712ae41de244 1-147
+video-room/tests/unit/session-mutation-queue.test.ts
+  s_af1d4955d8c11f::t_beda3cd6b27e77 1-213
+video-room/vite.config.ts
+  s_af1d4955d8c11f::t_0cbade78adc01d 1-25
+schemas/catalog.schema.json
+  s_af1d4955d8c11f::t_9336aa419eb7e8 94
+video-room/src/server/video-room.ts
+  s_af1d4955d8c11f::t_a6ab9691eada55 1-427
+video-room/architecture.mmd
+  s_af1d4955d8c11f::t_afd7fcba922592 1-31
+video-room/src/shared/protocol.ts
+  s_af1d4955d8c11f::t_708596c232f260 1-94
+scripts/test/foundation.test.mjs
+  s_af1d4955d8c11f::t_9336aa419eb7e8 42,52,57,67,78
+  s_af1d4955d8c11f::t_1ba38762f35758 47-49
+video-room/src/client/media.ts
+  s_af1d4955d8c11f::t_df5f0d38fa05bb 1-221
+video-room/tests/unit/room-lifecycle.test.ts
+  s_af1d4955d8c11f::t_5186792043abd2 1-735
+video-room/src/client/main.ts
+  s_af1d4955d8c11f::t_541452828cfb1c 1-825
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "baeb7dd5c2d989150168837f96bd56cb878518fb",
+  "prompts": {},
+  "sessions": {
+    "s_af1d4955d8c11f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a04442-1aa6-7e02-8a59-fec095e87cdf",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    }
+  }
+}
