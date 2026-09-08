@@ -1,0 +1,28 @@
+cloud-gaming/publisher/src/runtime.rs
+  s_af1d4955d8c11f::t_f34ad797eb6df1 50,94
+cloud-gaming/THIRD_PARTY_NOTICES.md
+  s_af1d4955d8c11f::t_f34ad797eb6df1 33
+cloud-gaming/publisher/src/peer.rs
+  s_af1d4955d8c11f::t_f34ad797eb6df1 320-321,328-334,508-515,606-614
+  s_af1d4955d8c11f::t_6e697e8cbe7aae 615-616
+cloud-gaming/publisher/src/main.rs
+  s_af1d4955d8c11f::t_f34ad797eb6df1 46
+cloud-gaming/publisher/src/signalling.rs
+  s_af1d4955d8c11f::t_f34ad797eb6df1 345,476-477,601
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "ebd057430d9c55914836905b39ea5d1b40e61487",
+  "prompts": {},
+  "sessions": {
+    "s_af1d4955d8c11f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a04442-1aa6-7e02-8a59-fec095e87cdf",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rachel Chen <rchen@cloudflare.com>"
+    }
+  }
+}

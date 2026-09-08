@@ -1,0 +1,78 @@
+cloud-gaming/Dockerfile
+  s_af1d4955d8c11f::t_78c8ccdc3b2067 2,4-9,13-25,28-31,33-56,58-79
+  s_af1d4955d8c11f::t_69826b3eabd18f 32
+  s_af1d4955d8c11f::t_7eb3f0f5f4b760 57
+  s_af1d4955d8c11f::t_dc75e0648e7eca 3,26-27
+  s_af1d4955d8c11f::t_1d723b405f9a7a 1,10-12
+cloud-gaming/publisher/src/pulse.rs
+  s_af1d4955d8c11f::t_170640fba976aa 1-191
+cloud-gaming/publisher/src/supervisor.rs
+  s_af1d4955d8c11f::t_5483fcb1472c2b 306-310
+  s_af1d4955d8c11f::t_deac4f49ab5ade 1-305,311-330
+cloud-gaming/.dockerignore
+  s_af1d4955d8c11f::t_78c8ccdc3b2067 1-10
+cloud-gaming/publisher/src/x11.rs
+  s_af1d4955d8c11f::t_170640fba976aa 1-352,354-358,360-409,411-431,433-454
+  s_af1d4955d8c11f::t_ca48c3f676317b 353,359,410,432
+cloud-gaming/publisher/src/main.rs
+  s_af1d4955d8c11f::t_7d7c6206fafd6e 104
+  s_af1d4955d8c11f::t_74e69a48fd47e8 1-51,55-103,105-122,125-131,134-192
+  s_af1d4955d8c11f::t_5483fcb1472c2b 52-54,123-124,132-133
+cloud-gaming/publisher/src/signalling.rs
+  s_af1d4955d8c11f::t_2e6f69bd55478d 10-11,212-215,351-355,486-487,609-616
+  s_af1d4955d8c11f::t_5483fcb1472c2b 1,14-17,100-172,241-248,272,284-285,302-305,319-320,330-335,339-343,347-350,356-360,417-422,427-429,465-467,651
+  s_af1d4955d8c11f::t_7d7c6206fafd6e 621
+  s_af1d4955d8c11f::t_90891f3e918998 265,286-299,301,321-327,329
+  s_af1d4955d8c11f::t_695d69a88eacc6 485,670-712
+  s_af1d4955d8c11f::t_0cfb7a01daceb1 2-9,12-13,18-99,173-211,216-240,249-264,266-271,273-283,300,306-318,328,336-338,344-346,361-416,423-426,430-464,468-484,488-608,617-620,622-650,652-669,713-791
+cloud-gaming/publisher/src/media.rs
+  s_af1d4955d8c11f::t_170640fba976aa 1-782
+cloud-gaming/publisher/Cargo.toml
+  s_af1d4955d8c11f::t_170640fba976aa 1-24
+cloud-gaming/publisher/src/input.rs
+  s_af1d4955d8c11f::t_170640fba976aa 1-237,246-280,298-383,385-395,402-404,406-414
+  s_af1d4955d8c11f::t_521ab8cf7e2abc 238-245
+  s_af1d4955d8c11f::t_695d69a88eacc6 384,405
+  s_af1d4955d8c11f::t_2e6f69bd55478d 281-297,396-401
+  s_af1d4955d8c11f::t_05f132c59ccae8 415-416
+cloud-gaming/publisher/src/game.rs
+  s_af1d4955d8c11f::t_deac4f49ab5ade 1-43
+cloud-gaming/publisher/src/runtime.rs
+  s_af1d4955d8c11f::t_deac4f49ab5ade 1-120
+cloud-gaming/publisher/.gitignore
+  s_af1d4955d8c11f::t_dc75e0648e7eca 1
+cloud-gaming/publisher/src/xvfb.rs
+  s_af1d4955d8c11f::t_170640fba976aa 1-103,108-145,147-154,156-177
+  s_af1d4955d8c11f::t_ca48c3f676317b 104-107,146,155
+cloud-gaming/publisher/src/peer.rs
+  s_af1d4955d8c11f::t_5483fcb1472c2b 46,247,289,338-341,577
+  s_af1d4955d8c11f::t_7d7c6206fafd6e 215,220,226,250-251,254,262,265,274,279,285,293,296
+  s_af1d4955d8c11f::t_0cfb7a01daceb1 1-45,47-214,216-219,221-225,227-246,248-249,252-253,255-261,263-264,266-273,275-278,280-284,286-288,290-292,294-295,297-337,342-413,418-576,578-623
+  s_af1d4955d8c11f::t_521ab8cf7e2abc 414-417
+cloud-gaming/publisher/src/config.rs
+  s_af1d4955d8c11f::t_5483fcb1472c2b 62-64,118-121,123-124
+  s_af1d4955d8c11f::t_a1850159324629 104
+  s_af1d4955d8c11f::t_170640fba976aa 1-61,65-87,99,105-107,109-113,115-117,125-128,130-138,140-145
+  s_af1d4955d8c11f::t_ca48c3f676317b 88-98,100-103,108,114,122,129,139
+cloud-gaming/THIRD_PARTY_NOTICES.md
+  s_af1d4955d8c11f::t_1d723b405f9a7a 17-18,22,53
+  s_af1d4955d8c11f::t_78c8ccdc3b2067 1-16,19-21,23-52,54-77
+cloud-gaming/publisher/Cargo.lock
+  s_af1d4955d8c11f::t_6f9c3180df8897 1-3428
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "62c397671c1170427fd75004c4af64510f709e6a",
+  "prompts": {},
+  "sessions": {
+    "s_af1d4955d8c11f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a04442-1aa6-7e02-8a59-fec095e87cdf",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rachel Chen <rchen@cloudflare.com>"
+    }
+  }
+}

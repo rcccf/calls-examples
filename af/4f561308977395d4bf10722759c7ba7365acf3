@@ -1,0 +1,51 @@
+cloud-gaming/vitest.config.ts
+  s_af1d4955d8c11f::t_fccdeda2547775 1,5-6,18-22,24
+  s_af1d4955d8c11f::t_72029196580300 7-17
+cloud-gaming/package.json
+  s_af1d4955d8c11f::t_fccdeda2547775 13,24
+cloud-gaming/src/server/realtime.ts
+  s_af1d4955d8c11f::t_b8371fdf09f329 196-197,219-220,262,286-287,426-427
+  s_af1d4955d8c11f::t_3ea451e0b7589f 195
+  s_af1d4955d8c11f::t_3ef68649eeec50 428-429
+cloud-gaming/src/worker.ts
+  s_af1d4955d8c11f::t_32699fd95df391 14,135,228-237
+  s_af1d4955d8c11f::t_4dbb8db329e7b5 238
+cloud-gaming/src/server/publisher-domain.ts
+  s_af1d4955d8c11f::t_65de5e9d1902cd 2,183
+cloud-gaming/tsconfig.json
+  s_af1d4955d8c11f::t_fccdeda2547775 16
+cloud-gaming/scripts/workerd-wrangler.jsonc
+  s_af1d4955d8c11f::t_72029196580300 10-12,17-18,22-23,25-26
+  s_af1d4955d8c11f::t_fccdeda2547775 1-9,13-16,19-21,24,27
+cloud-gaming/src/shared/protocol.ts
+  s_af1d4955d8c11f::t_65de5e9d1902cd 10-11
+cloud-gaming/src/shared/schemas.ts
+  s_af1d4955d8c11f::t_65de5e9d1902cd 97
+  s_af1d4955d8c11f::t_b8bd1f521970f3 3-12
+cloud-gaming/src/server/controller-domain.ts
+  s_af1d4955d8c11f::t_32699fd95df391 22,34
+  s_af1d4955d8c11f::t_65de5e9d1902cd 7,91
+cloud-gaming/src/server/rpc.ts
+  s_af1d4955d8c11f::t_32699fd95df391 18-22
+cloud-gaming/src/server/backend.workerd.test.ts
+  s_af1d4955d8c11f::t_d429c193cb0ac6 1-2,6,32,44-90
+  s_af1d4955d8c11f::t_fccdeda2547775 3-5,7-31,33-43,91-161
+cloud-gaming/src/server/game-container.ts
+  s_af1d4955d8c11f::t_32699fd95df391 30,118
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "af4f561308977395d4bf10722759c7ba7365acf3",
+  "prompts": {},
+  "sessions": {
+    "s_af1d4955d8c11f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a04442-1aa6-7e02-8a59-fec095e87cdf",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rachel Chen <rchen@cloudflare.com>"
+    }
+  }
+}
