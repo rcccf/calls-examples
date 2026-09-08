@@ -1,0 +1,65 @@
+cloud-gaming/src/client/styles.css
+  s_af1d4955d8c11f::t_7479e5bab60425 1-51
+cloud-gaming/src/client/input.ts
+  s_af1d4955d8c11f::t_be8b4f88dc45e9 1-119,121-139,141-162,168-471
+  s_af1d4955d8c11f::t_de47cfd6fa97da 163-167
+  s_af1d4955d8c11f::t_b8b263572d98ed 120,140
+cloud-gaming/src/client/components/primitives.tsx
+  s_af1d4955d8c11f::t_599ae132f1a325 1-48
+cloud-gaming/src/client/vite.config.ts
+  s_af1d4955d8c11f::t_cfbe8a52676a6f 1-29
+cloud-gaming/src/client/use-cloud-gaming.ts
+  s_af1d4955d8c11f::t_7e8efdbeb58a56 1-211
+cloud-gaming/src/client/app.tsx
+  s_af1d4955d8c11f::t_b0b137b56b4e88 51-52,198,201,210,263,271
+  s_af1d4955d8c11f::t_9c157bb4317d1d 1-50,53-197,199-200,202-209,211-262,264-270,272-276
+cloud-gaming/src/client/components/game-stage.tsx
+  s_af1d4955d8c11f::t_1932bfada6ff9f 85,94
+  s_af1d4955d8c11f::t_b0b137b56b4e88 55,61,103,127-129
+  s_af1d4955d8c11f::t_a554e3972ce568 1-54,56-60,62-84,86-93,95-102,104-126,130-143
+cloud-gaming/src/client/api.ts
+  s_af1d4955d8c11f::t_28d78c4ee46485 1-400
+cloud-gaming/index.html
+  s_af1d4955d8c11f::t_7479e5bab60425 1-8,10,12-17
+  s_af1d4955d8c11f::t_b0b137b56b4e88 9,11
+cloud-gaming/src/client/viewer.ts
+  s_af1d4955d8c11f::t_47c30601bb2a9d 141
+  s_af1d4955d8c11f::t_de47cfd6fa97da 414-416
+  s_af1d4955d8c11f::t_41614bcb1755c2 478
+  s_af1d4955d8c11f::t_dd9dfe5383afc4 1-140,142-270,278-413,417-477,479-480
+  s_af1d4955d8c11f::t_f4a89cbc16ad51 271-277
+cloud-gaming/src/client/main.ts
+  s_af1d4955d8c11f::t_992253d9533c8a 1-4,6-10
+  s_af1d4955d8c11f::t_9c157bb4317d1d 5
+cloud-gaming/src/client/components/status-rail.tsx
+  s_af1d4955d8c11f::t_a260526c71a0bf 1-76,78-111,113-205
+  s_af1d4955d8c11f::t_b0b137b56b4e88 77,112
+cloud-gaming/src/client/control.ts
+  s_af1d4955d8c11f::t_18a2654c4f560c 46-47,49-50,65,70,100-102,104-113,134-141,171-175,181,226-227
+  s_af1d4955d8c11f::t_8d24103c4d9e92 1-45,48,51-59,61-64,66-69,71-99,103,114-133,142-170,176-180,182-195,197-225,228-454
+  s_af1d4955d8c11f::t_de47cfd6fa97da 60,196
+cloud-gaming/package.json
+  s_af1d4955d8c11f::t_cfbe8a52676a6f 7,11,14,20-21,27,29-32
+cloud-gaming/src/client/presentation.ts
+  s_af1d4955d8c11f::t_b0b137b56b4e88 39,42,44,49-51,56,58,63,65,70,72,76,78,85,91,101-105
+  s_af1d4955d8c11f::t_41614bcb1755c2 77
+  s_af1d4955d8c11f::t_4d1516a7ae9237 1-38,40-41,43,45-48,52-55,57,59-62,64,66-69,71,73-75,79-84,86-90,92-100,106-168
+cloud-gaming/package-lock.json
+  s_af1d4955d8c11f::t_79dd0ceeab7f60 1-3984
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "4fe2e303915067ed8bc0fcc32df9e56bb2fb99ab",
+  "prompts": {},
+  "sessions": {
+    "s_af1d4955d8c11f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a04442-1aa6-7e02-8a59-fec095e87cdf",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rachel Chen <rchen@cloudflare.com>"
+    }
+  }
+}
