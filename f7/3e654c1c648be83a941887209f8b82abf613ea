@@ -1,0 +1,40 @@
+video-room/AGENTS.md
+  s_af1d4955d8c11f::t_022a6f969fa2b3 3-25,28,31-34,37-56,58-69,73-79,81-84,87-93,95-98,108,114-116
+  s_af1d4955d8c11f::t_afc24a8246f865 35-36,57,70-72,85-86
+video-room/architecture.mmd
+  s_af1d4955d8c11f::t_43149cc85954c3 1-24,26-29,31-33,36-51
+video-room/PRODUCTION.md
+  s_af1d4955d8c11f::t_022a6f969fa2b3 32,43-44
+video-room/ARCHITECTURE.md
+  s_af1d4955d8c11f::t_022a6f969fa2b3 37-41
+  s_af1d4955d8c11f::t_43149cc85954c3 5-10
+video-room/TROUBLESHOOTING.md
+  s_af1d4955d8c11f::t_afc24a8246f865 62-63
+video-room/README.md
+  s_af1d4955d8c11f::t_afc24a8246f865 17
+  s_af1d4955d8c11f::t_022a6f969fa2b3 5,9-10,16,18,22-23,30,33-37,41,46,49,53,67,69,72,81-83,85,94,100,110-112,114-117
+  s_af1d4955d8c11f::t_a629c12af7aeab 6-7,11,20,27-29,31-32,38-40,42-45,47-48,50-52,54-55,59-60,73-74,76-77,79,91-92,96-97,105,118
+  s_af1d4955d8c11f::t_98e90655b13459 8
+video-room/package.json
+  s_af1d4955d8c11f::t_43149cc85954c3 12
+video-room/.dev.vars.example
+  s_af1d4955d8c11f::t_022a6f969fa2b3 1-2
+video-room/architecture.svg
+  s_af1d4955d8c11f::t_8161a9c08f1a70 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "f73e654c1c648be83a941887209f8b82abf613ea",
+  "prompts": {},
+  "sessions": {
+    "s_af1d4955d8c11f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a04442-1aa6-7e02-8a59-fec095e87cdf",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rachel Chen <rchen@cloudflare.com>"
+    }
+  }
+}
