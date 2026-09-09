@@ -1,0 +1,58 @@
+cloud-gaming/Dockerfile
+  s_af1d4955d8c11f::t_71a7baa4d9ea26 78
+cloud-gaming/package.json
+  s_af1d4955d8c11f::t_848e1de8053dd1 7,11,14
+cloud-gaming/publisher/src/health.rs
+  s_af1d4955d8c11f::t_71a7baa4d9ea26 1-41
+cloud-gaming/publisher/src/supervisor.rs
+  s_af1d4955d8c11f::t_877dfbd2090b19 22,143,146-159,169,172-189
+cloud-gaming/publisher/src/main.rs
+  s_af1d4955d8c11f::t_71a7baa4d9ea26 3,60-62
+cloud-gaming/src/shared/schemas.ts
+  s_af1d4955d8c11f::t_c79ed07f5c9d9c 5,8-10,16,18-19,47-49,52-56,123-230
+cloud-gaming/tsconfig.json
+  s_af1d4955d8c11f::t_848e1de8053dd1 7
+cloud-gaming/AGENTS.md
+  s_af1d4955d8c11f::t_b8c717120a8b57 18-19,44-47
+cloud-gaming/src/client/styles.css
+  s_af1d4955d8c11f::t_848e1de8053dd1 15-16
+cloud-gaming/README.md
+  s_af1d4955d8c11f::t_b8c717120a8b57 38-39,72
+cloud-gaming/src/server/run-lifecycle.ts
+  s_af1d4955d8c11f::t_d0231d15a34e3f 158-167
+cloud-gaming/src/server/game-container.ts
+  s_af1d4955d8c11f::t_71a7baa4d9ea26 50,53-55,75-82
+  s_af1d4955d8c11f::t_877dfbd2090b19 94,185,251-257
+  s_af1d4955d8c11f::t_3119a5abbf7d70 258-260
+  s_af1d4955d8c11f::t_27a236221e48ae 261-264
+cloud-gaming/TROUBLESHOOTING.md
+  s_af1d4955d8c11f::t_71a7baa4d9ea26 18-19
+cloud-gaming/src/server/publisher-domain.ts
+  s_af1d4955d8c11f::t_877dfbd2090b19 240,242-247
+cloud-gaming/vite.config.ts
+  s_af1d4955d8c11f::t_848e1de8053dd1 2-3,11-12
+cloud-gaming/src/client/api.ts
+  s_af1d4955d8c11f::t_c79ed07f5c9d9c 1,16-24,61,71,82,95,108,123,141,155,171,178,238
+cloud-gaming/publisher/Cargo.toml
+  s_af1d4955d8c11f::t_71a7baa4d9ea26 19
+cloud-gaming/src/client/viewer.ts
+  s_af1d4955d8c11f::t_848e1de8053dd1 14,47,74,78,129,145,173,179-188
+  s_af1d4955d8c11f::t_2f5dcd6e581e7d 466-472,488-490
+  s_af1d4955d8c11f::t_561c610d0f9005 491-492
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "c8630b0cd61b83ce909e7cac87eda876e91b273a",
+  "prompts": {},
+  "sessions": {
+    "s_af1d4955d8c11f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a04442-1aa6-7e02-8a59-fec095e87cdf",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rachel Chen <rchen@cloudflare.com>"
+    }
+  }
+}
