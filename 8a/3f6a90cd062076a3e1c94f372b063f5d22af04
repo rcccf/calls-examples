@@ -1,0 +1,1093 @@
+esp32-radio/worker/tests/popovers.mjs
+  s_ee85203726ac16::t_775ff7f43d6264 1-85
+esp32-radio/playlist.example.json
+  s_ee85203726ac16::t_de201f97b6e114 1-4
+esp32-radio/firmware/crates/esp32-radio/src/platform/crypto/mod.rs
+  s_ee85203726ac16::t_c5b6ee6f1af1b1 1-21
+esp32-radio/firmware/vendor/sctp-proto/src/chunk/chunk_heartbeat_ack.rs
+  s_ee85203726ac16::t_36debaa6c2301a 1-122
+esp32-radio/firmware/vendor/sctp-proto/src/chunk/chunk_type.rs
+  s_ee85203726ac16::t_9bccb74b139595 1-94
+esp32-radio/firmware/vendor/sctp-proto/src/queue/reassembly_queue.rs
+  s_ee85203726ac16::t_853fc405b31bbe 1-641
+esp32-radio/firmware/vendor/str0m/src/packet/h266.rs
+  s_ee85203726ac16::t_2e7ba2423d8cb0 1-2580
+esp32-radio/ARCHITECTURE.md
+  s_ee85203726ac16::t_4b722c2320712e 1-2,7-15,25-39,43-60,65-72,83-85,89-143
+  s_ee85203726ac16::t_b75439cbcd3185 3-6,16-24,40-42,61-64,73-82,86-88,144-147
+esp32-radio/worker/src/client/radio/webrtc.ts
+  s_ee85203726ac16::t_d75fe485e9a9d4 1-64
+esp32-radio/firmware/platform/certificate.c
+  s_ee85203726ac16::t_6276dee5751469 1-81
+esp32-radio/firmware/crates/esp32-radio/src/platform/http.rs
+  s_ee85203726ac16::t_029fd7f986cf2e 1-73
+esp32-radio/firmware/crates/radio-core/src/spectrum.rs
+  s_ee85203726ac16::t_98c604d15e642c 1-156
+esp32-radio/firmware/vendor/str0m/src/packet/vp9.rs
+  s_ee85203726ac16::t_546a8d0e64aae1 1-1586
+esp32-radio/firmware/crates/radio-webrtc/src/audio.rs
+  s_ee85203726ac16::t_15f9b523f6a5d5 1-72
+esp32-radio/firmware/vendor/str0m/tests/remove-media-while-pacer-queued.rs
+  s_ee85203726ac16::t_cf96b6074fd8aa 1-86
+esp32-radio/firmware/vendor/str0m/tests/rtp-direct-with-roc.rs
+  s_ee85203726ac16::t_aac60132b53cec 1-124
+esp32-radio/.credential.env.example
+  s_ee85203726ac16::t_8f3c752c71c1c0 1-9
+esp32-radio/firmware/vendor/str0m/tests/dtls-retransmit.rs
+  s_ee85203726ac16::t_7274402f37ebf0 1-333
+esp32-radio/firmware/vendor/str0m/tests/pli-feedback.rs
+  s_ee85203726ac16::t_e8d9198d801842 1-65
+esp32-radio/firmware/vendor/str0m/tests/keyframes.rs
+  s_ee85203726ac16::t_35fb6b27167ddd 1-588
+esp32-radio/firmware/vendor/str0m/tests/rtp_to_frame.rs
+  s_ee85203726ac16::t_12021f8a795e1a 1-105
+esp32-radio/worker/README.md
+  s_ee85203726ac16::t_b93e4592d5f53a 3-10,52-54,80-81
+  s_ee85203726ac16::t_d001454b46361f 1-2,11-51,55-79,82-166
+esp32-radio/worker/tests/runtime/harness.ts
+  s_ee85203726ac16::t_ca514b1621452f 1-29
+esp32-radio/worker/src/server/robot-room.ts
+  s_ee85203726ac16::t_bdad374482badc 1-487
+esp32-radio/firmware/crates/radio-core/tests/spectrum.rs
+  s_ee85203726ac16::t_f4c68752e88183 1-119
+esp32-radio/firmware/vendor/str0m/tests/loss.rs
+  s_ee85203726ac16::t_c829c20e63bbb3 1-179
+esp32-radio/firmware/vendor/str0m/src/streams/register.rs
+  s_ee85203726ac16::t_457fb408bb5a92 1-426
+esp32-radio/firmware/vendor/str0m/src/streams/rtx_cache.rs
+  s_ee85203726ac16::t_95c99438fdd8ab 1-192
+esp32-radio/firmware/vendor/str0m/src/packet/contiguity.rs
+  s_ee85203726ac16::t_8a54f16560eb3d 1-104
+esp32-radio/firmware/vendor/str0m-rust-crypto/Cargo.toml
+  s_ee85203726ac16::t_3e8bb489f4b671 1-72
+esp32-radio/worker/src/server/routes/access.ts
+  s_ee85203726ac16::t_56bd342b2caa68 1-11
+esp32-radio/firmware/vendor/str0m/tests/drv_input.rs
+  s_ee85203726ac16::t_5ba424e04e7f39 1-82
+esp32-radio/firmware/vendor/str0m/src/bwe/alr_detector/mod.rs
+  s_ee85203726ac16::t_5dcb1311f939bd 1-6
+esp32-radio/firmware/vendor/str0m/src/bwe/link_capacity_estimator.rs
+  s_ee85203726ac16::t_92fee2de8e8b33 1-181
+esp32-radio/worker/src/client/exhibit/board/board-node.tsx
+  s_ee85203726ac16::t_554c64e135408f 1-70
+esp32-radio/firmware/vendor/sctp-proto/src/param/param_requested_hmac_algorithm.rs
+  s_ee85203726ac16::t_bf831e56c2494e 1-113
+esp32-radio/firmware/vendor/str0m/src/media/event.rs
+  s_ee85203726ac16::t_5358b3287799d1 1-370
+esp32-radio/firmware/vendor/str0m/src/rtp/rtcp/bb.rs
+  s_ee85203726ac16::t_9f2b35209d73a1 1-62
+esp32-radio/firmware/crates/radio-core/src/music.rs
+  s_ee85203726ac16::t_242de46e33d5bf 1-71
+esp32-radio/firmware/vendor/str0m/tests/rtp-direct-reset-ssrc.rs
+  s_ee85203726ac16::t_3e1c38f1314fa5 1-313
+esp32-radio/.gitattributes
+  s_ee85203726ac16::t_fbb269529d6a9d 1-3
+esp32-radio/THIRD_PARTY.md
+  s_ee85203726ac16::t_967c9d9d2102d3 1-53
+esp32-radio/firmware/platform/crypto_profile.c
+  s_ee85203726ac16::t_db666dceb92c54 1-196
+esp32-radio/worker/.prettierignore
+  s_ee85203726ac16::t_00716ca9e55088 1-7
+esp32-radio/firmware/vendor/str0m/src/_internal_test_exports/rng.rs
+  s_ee85203726ac16::t_5724834e6800ee 1-55
+esp32-radio/worker/src/shared/contracts/robot.ts
+  s_ee85203726ac16::t_539e121632f1cc 1-72
+esp32-radio/firmware/vendor/str0m/src/_internal_test_exports/setup.rs
+  s_ee85203726ac16::t_55c6f9e466e56a 1-67
+esp32-radio/firmware/vendor/str0m/src/bwe/alr_detector/detector.rs
+  s_ee85203726ac16::t_0f82272071337e 1-344
+esp32-radio/firmware/vendor/str0m/.gitignore
+  s_ee85203726ac16::t_5342afcd95ee0e 1-18
+esp32-radio/firmware/vendor/str0m/src/packet/buffer_rx.rs
+  s_ee85203726ac16::t_88ac382ce30c06 1-1173
+esp32-radio/firmware/vendor/str0m/src/bwe/api.rs
+  s_ee85203726ac16::t_9f47d58263684e 1-57
+esp32-radio/firmware/vendor/str0m/src/bwe/probe/control.rs
+  s_ee85203726ac16::t_2cb43a81a50e56 1-1000
+esp32-radio/worker/src/client/exhibit/diagram/wire-layout.ts
+  s_ee85203726ac16::t_f436036561fb17 1-38
+esp32-radio/firmware/crates/esp32-radio/src/platform/crypto/ec.rs
+  s_ee85203726ac16::t_ca0d9fb3fbec67 1-102
+esp32-radio/firmware/vendor/sctp-proto/src/util.rs
+  s_ee85203726ac16::t_f1efd11af82790 1-534
+esp32-radio/firmware/crates/esp32-radio/src/platform/crypto/self_test/fixtures/README.md
+  s_ee85203726ac16::t_54c403ff8cf179 1-13
+esp32-radio/firmware/vendor/sctp-proto/src/param/param_heartbeat_info.rs
+  s_ee85203726ac16::t_c4df0380c3a2a9 1-48
+esp32-radio/firmware/vendor/str0m/src/pacer/control.rs
+  s_ee85203726ac16::t_8f6810e0b0fd00 1-91
+esp32-radio/firmware/vendor/str0m/tests/no-pre-ice-feedback.rs
+  s_ee85203726ac16::t_4036279d0486a0 1-65
+esp32-radio/firmware/vendor/sctp-proto/src/association/mod.rs
+  s_ee85203726ac16::t_997190b9437819 1-4420
+esp32-radio/worker/src/client/exhibit/diagram/wires.tsx
+  s_ee85203726ac16::t_58e1b154f3cb92 1-100
+esp32-radio/worker/index.html
+  s_ee85203726ac16::t_d8539966e44577 1-21
+esp32-radio/firmware/vendor/str0m/src/rtp/mtime.rs
+  s_ee85203726ac16::t_e3d7b6726e72fb 1-450
+esp32-radio/worker/src/client/ui/action-label.tsx
+  s_ee85203726ac16::t_47f98ac340b938 1-19
+esp32-radio/firmware/vendor/str0m/tests/keyframe-requests.rs
+  s_ee85203726ac16::t_4fb3011e655a47 1-208
+esp32-radio/worker/src/client/radio/protocol.ts
+  s_ee85203726ac16::t_f3375eb0cf51ad 1-52
+esp32-radio/worker/src/shared/contracts/hardware.ts
+  s_ee85203726ac16::t_858b0cb5b2475a 1-17
+esp32-radio/firmware/vendor/str0m/src/packet/opus.rs
+  s_ee85203726ac16::t_a7352ed588b14d 1-149
+esp32-radio/firmware/vendor/str0m/tests/bidirectional.rs
+  s_ee85203726ac16::t_7bf2a33c2f2667 1-98
+esp32-radio/firmware/vendor/str0m/src/packet/comfort_noise.rs
+  s_ee85203726ac16::t_0746cc0c520591 1-89
+esp32-radio/firmware/AGENTS.md
+  s_ee85203726ac16::t_432b3ad99d4b7c 1-35
+esp32-radio/firmware/vendor/str0m/src/util/time_tricks.rs
+  s_ee85203726ac16::t_fc094735838a32 1-210
+esp32-radio/firmware/vendor/str0m/src/format/format_params.rs
+  s_ee85203726ac16::t_dfa9414e644cd4 1-316
+esp32-radio/firmware/crates/esp32-radio/src/platform/certificate.rs
+  s_ee85203726ac16::t_c4dcd9a5b28f3d 1-44
+esp32-radio/firmware/vendor/str0m/src/bwe/delay/rate_control.rs
+  s_ee85203726ac16::t_33b83de4a1263f 1-524
+esp32-radio/firmware/vendor/sctp-proto/LICENSE-MIT
+  s_ee85203726ac16::t_e30024d23fc9ca 1-22
+esp32-radio/firmware/crates/esp32-radio/build.rs
+  s_ee85203726ac16::t_437cfb332ebc9e 1-7
+esp32-radio/firmware/vendor/str0m/tests/rtp-direct-csrc.rs
+  s_ee85203726ac16::t_b2b312fae92864 1-273
+esp32-radio/firmware/vendor/sctp-proto/Cargo.toml
+  s_ee85203726ac16::t_abd7dc0173def9 1-68
+esp32-radio/firmware/crates/radio-webrtc/src/connection.rs
+  s_ee85203726ac16::t_11cd243a3ad5e3 1-182
+esp32-radio/worker/src/client/exhibit/branch-panel.tsx
+  s_ee85203726ac16::t_bd3875cb942ce1 1-65
+esp32-radio/scripts/build_firmware.py
+  s_ee85203726ac16::t_1d69ace112295c 1-147
+esp32-radio/firmware/vendor/str0m/src/packet/error.rs
+  s_ee85203726ac16::t_27cd9c6521200a 1-52
+esp32-radio/firmware/vendor/str0m/src/bwe/delay/trendline.rs
+  s_ee85203726ac16::t_3dae095f7a66ca 1-454
+esp32-radio/firmware/vendor/str0m/src/util/average.rs
+  s_ee85203726ac16::t_2f3b682f36fa27 1-80
+esp32-radio/firmware/vendor/str0m/tests/remb.rs
+  s_ee85203726ac16::t_fe42957682d8b2 1-77
+esp32-radio/firmware/crates/radio-webrtc/src/lib.rs
+  s_ee85203726ac16::t_7829ef4ec0651c 1-52
+esp32-radio/firmware/crates/esp32-radio/src/platform/crypto/hashes.rs
+  s_ee85203726ac16::t_2f47daf7653721 1-96
+esp32-radio/scripts/format_c.py
+  s_ee85203726ac16::t_197db17933c058 1-82
+esp32-radio/firmware/vendor/sctp-proto/src/association/receive_limits_test.rs
+  s_ee85203726ac16::t_58d5162a877595 1-231
+esp32-radio/firmware/vendor/str0m/src/io/error.rs
+  s_ee85203726ac16::t_d6239bcf817397 1-45
+esp32-radio/firmware/crates/radio-core/src/playback.rs
+  s_ee85203726ac16::t_c5a7daa9532106 1-144
+esp32-radio/firmware/vendor/sctp-proto/src/queue/payload_queue.rs
+  s_ee85203726ac16::t_c76959583c0410 1-191
+esp32-radio/firmware/platform/tests/http/esp_heap_caps.h
+  s_ee85203726ac16::t_4ad0f3945adb1a 1-6
+esp32-radio/firmware/vendor/str0m/src/rtp/rtcp/psfbapp.rs
+  s_ee85203726ac16::t_7797c17992ee38 1-167
+esp32-radio/worker/src/client/radio/session.test.ts
+  s_ee85203726ac16::t_263befb45cd1ae 1-336
+esp32-radio/firmware/vendor/str0m/src/rtp/ext.rs
+  s_ee85203726ac16::t_eb59ec6307c7bd 1-1583
+esp32-radio/firmware/vendor/str0m/tests/config-validation.rs
+  s_ee85203726ac16::t_69d47c50356285 1-552
+esp32-radio/firmware/vendor/str0m/tests/unidirectional.rs
+  s_ee85203726ac16::t_2d2eaaef8e770b 1-87
+esp32-radio/firmware/vendor/sctp-proto/src/chunk/mod.rs
+  s_ee85203726ac16::t_2b86a4620969b3 1-184
+esp32-radio/firmware/vendor/str0m/tests/dtls-security.rs
+  s_ee85203726ac16::t_c3e4ec088a104f 1-197
+esp32-radio/firmware/vendor/sctp-proto/SYNC-RTC-SCTP.md
+  s_ee85203726ac16::t_3edfb4daefa7c9 1-93
+esp32-radio/firmware/vendor/str0m/src/change/direct.rs
+  s_ee85203726ac16::t_1fd165ba2b34ac 1-425
+esp32-radio/worker/tsconfig.node.json
+  s_ee85203726ac16::t_ab9454d5dcf154 1-17
+esp32-radio/worker/src/client/radio/session.ts
+  s_ee85203726ac16::t_e2d53a1b6317d6 1-449
+esp32-radio/firmware/vendor/str0m-rust-crypto/Cargo.toml.orig
+  s_ee85203726ac16::t_21fe89c7464615 1-24
+esp32-radio/firmware/vendor/str0m/tests/rtp-direct-ssrc.rs
+  s_ee85203726ac16::t_f954e902821747 1-353
+esp32-radio/firmware/vendor/sctp-proto/src/lib.rs
+  s_ee85203726ac16::t_509e5e3075994a 1-218
+esp32-radio/firmware/vendor/str0m/tests/rtp-direct-mid-rid.rs
+  s_ee85203726ac16::t_313e5f36a22fdd 1-115
+esp32-radio/firmware/crates/radio-webrtc/src/network.rs
+  s_ee85203726ac16::t_d8d8974a6e7e18 1-108
+esp32-radio/firmware/crates/radio-core/src/signaling.rs
+  s_ee85203726ac16::t_9522ed015bfb60 1-113
+esp32-radio/worker/src/client/radio/playback.ts
+  s_ee85203726ac16::t_b300379ee9ece2 1-28
+esp32-radio/firmware/vendor/str0m/README.md
+  s_ee85203726ac16::t_67aa3a330ec49d 1-656
+esp32-radio/firmware/vendor/sctp-proto/src/chunk/chunk_payload_data.rs
+  s_ee85203726ac16::t_8ae880daa38028 1-259
+esp32-radio/worker/tsconfig.paths.json
+  s_ee85203726ac16::t_c2f46dbd8668fd 1-9
+esp32-radio/firmware/crates/esp32-radio/Cargo.toml
+  s_ee85203726ac16::t_4b2fcabc660ea7 1-34
+esp32-radio/firmware/vendor/str0m/src/sdp/parser.rs
+  s_ee85203726ac16::t_6dcd28e31e37bd 1-1818
+esp32-radio/worker/src/client/ui/anchored-dialog.tsx
+  s_ee85203726ac16::t_c1d48f9f4058ad 1-100
+esp32-radio/firmware/crates/esp32-radio/src/platform/crypto/signature.rs
+  s_ee85203726ac16::t_48336eb1e16627 1-32
+esp32-radio/firmware/vendor/str0m/transport.patch
+  s_ee85203726ac16::t_de244baf34985e 1-524
+esp32-radio/.gitignore
+  s_ee85203726ac16::t_2a86f00d7c13d7 1-20
+esp32-radio/firmware/crates/esp32-radio/src/platform/crypto/self_test.rs
+  s_ee85203726ac16::t_fcc0736444eae4 1-102
+esp32-radio/firmware/vendor/str0m/docs/slide.txt
+  s_ee85203726ac16::t_47ddd86d939e15 1-30
+esp32-radio/firmware/vendor/str0m/src/bwe/acked_bitrate_estimator.rs
+  s_ee85203726ac16::t_b825f0701ce6fd 1-253
+esp32-radio/firmware/vendor/str0m/tests/twcc.rs
+  s_ee85203726ac16::t_d126a29bd8d952 1-120
+esp32-radio/worker/src/client/exhibit/audio/track-metadata.tsx
+  s_ee85203726ac16::t_08d43244e135e4 1-41
+esp32-radio/firmware/platform/crypto_aes.c
+  s_ee85203726ac16::t_4eabc4d17577d6 1-67
+esp32-radio/firmware/platform/board.c
+  s_ee85203726ac16::t_f41a0b9a98d64e 1-173
+esp32-radio/firmware/platform/tests/http/esp_crt_bundle.h
+  s_ee85203726ac16::t_34f64ee91a8f62 1-3
+esp32-radio/firmware/vendor/sctp-proto/src/chunk/chunk_header.rs
+  s_ee85203726ac16::t_688b1be51cb784 1-102
+esp32-radio/firmware/vendor/str0m/tests/ice-lite-connectivity.rs
+  s_ee85203726ac16::t_0f8694b72e487c 1-56
+esp32-radio/firmware/vendor/str0m/tests/comfort-noise.rs
+  s_ee85203726ac16::t_96d29ae1109b28 1-354
+esp32-radio/firmware/vendor/str0m/docs/packet.md
+  s_ee85203726ac16::t_13ca2e9ce490a8 1-26
+esp32-radio/firmware/Cargo.toml
+  s_ee85203726ac16::t_fbf0d895a01737 1-42
+esp32-radio/docs/architecture.dot
+  s_ee85203726ac16::t_7fa9da6c1a68f0 28,30
+  s_ee85203726ac16::t_4b722c2320712e 1-27,29,31
+esp32-radio/firmware/crates/esp32-radio/src/station.rs
+  s_ee85203726ac16::t_ca274f60022961 1-25
+esp32-radio/firmware/vendor/str0m/tests/api-errors.rs
+  s_ee85203726ac16::t_a03378ee64ff41 1-263
+esp32-radio/firmware/vendor/sctp-proto/src/config.rs
+  s_ee85203726ac16::t_c6371eb2aa65cb 1-485
+esp32-radio/firmware/platform/metrics.c
+  s_ee85203726ac16::t_515f40337f3ae1 1-77
+esp32-radio/firmware/vendor/str0m/tests/g722.rs
+  s_ee85203726ac16::t_25c13153026807 1-415
+esp32-radio/firmware/vendor/str0m/tests/bwe/common.rs
+  s_ee85203726ac16::t_0f02e21a3679b6 1-325
+esp32-radio/firmware/vendor/sctp-proto/src/chunk/chunk_cookie_echo.rs
+  s_ee85203726ac16::t_0c25afea728b9a 1-62
+esp32-radio/worker/src/client/radio/session-state.ts
+  s_ee85203726ac16::t_a4b8b5606ce456 1-54
+esp32-radio/worker/dev/aliases.ts
+  s_ee85203726ac16::t_9b1d2628eb113b 1-8
+esp32-radio/firmware/vendor/str0m/src/dtls.rs
+  s_ee85203726ac16::t_535755d3bd1931 1-187
+esp32-radio/worker/src/server/rpc.ts
+  s_ee85203726ac16::t_1e98d5da47e658 1-13
+esp32-radio/firmware/vendor/sctp-proto/src/queue/queue_test.rs
+  s_ee85203726ac16::t_23a14f183c1951 1-1160
+esp32-radio/firmware/vendor/str0m/src/channel.rs
+  s_ee85203726ac16::t_3d00aeaf05602a 1-718
+esp32-radio/firmware/vendor/str0m/src/packet/contiguity_vp9.rs
+  s_ee85203726ac16::t_bce5586744e5b7 1-159
+esp32-radio/firmware/vendor/str0m/src/rtp/rtcp/pli.rs
+  s_ee85203726ac16::t_f16c22aa40959e 1-52
+esp32-radio/worker/tests/runtime/rpc.test.ts
+  s_ee85203726ac16::t_a86bd2bcef4546 1-17
+esp32-radio/worker/vitest.config.ts
+  s_ee85203726ac16::t_5498e5751d235d 1-27
+esp32-radio/firmware/vendor/sctp-proto/src/association/association_test.rs
+  s_ee85203726ac16::t_c001f942f3ab57 1-4356
+esp32-radio/firmware/vendor/str0m/tests/rtp-sequence.rs
+  s_ee85203726ac16::t_dadb397cf78117 1-546
+esp32-radio/firmware/vendor/str0m/CHANGELOG.md
+  s_ee85203726ac16::t_6ae37f42813e4b 1-437
+esp32-radio/firmware/vendor/sctp-proto/src/param/param_test.rs
+  s_ee85203726ac16::t_5397a35257aa6a 1-279
+esp32-radio/firmware/vendor/str0m/docs/ice.md
+  s_ee85203726ac16::t_f9b1f934b9915a 1-148
+esp32-radio/firmware/vendor/str0m/tests/stream-lifecycle.rs
+  s_ee85203726ac16::t_55c07d34c5b17d 1-376
+esp32-radio/worker/src/server/routes/viewers.ts
+  s_ee85203726ac16::t_83357a88659c39 1-63
+esp32-radio/scripts/test_flash_cache.py
+  s_ee85203726ac16::t_6b57c56082c2d1 1-83
+esp32-radio/scripts/music_partition.py
+  s_ee85203726ac16::t_43193033e06604 1-18
+esp32-radio/firmware/vendor/sctp-proto/src/param/param_type.rs
+  s_ee85203726ac16::t_1c5daf7774c047 1-164
+esp32-radio/firmware/crates/radio-core/Cargo.toml
+  s_ee85203726ac16::t_6bfe542813b99a 1-15
+esp32-radio/firmware/vendor/str0m/tests/bwe/main.rs
+  s_ee85203726ac16::t_5c023019c067ff 1-14
+esp32-radio/firmware/vendor/str0m/src/packet/contiguity_vp8.rs
+  s_ee85203726ac16::t_fc8a11370c60c5 1-185
+esp32-radio/firmware/vendor/str0m/tests/change-ssrc-reset-receive.rs
+  s_ee85203726ac16::t_e177483bc26d57 1-346
+esp32-radio/firmware/vendor/str0m/Cargo.lock
+  s_ee85203726ac16::t_2fbe33060ff042 1-2876
+esp32-radio/firmware/vendor/str0m/tests/unidirectional-r-create-media.rs
+  s_ee85203726ac16::t_c7b0b48fbb84d7 1-79
+esp32-radio/firmware/vendor/sctp-proto/src/chunk/chunk_error.rs
+  s_ee85203726ac16::t_393b082bffbb37 1-93
+esp32-radio/firmware/vendor/str0m-rust-crypto/src/sha256.rs
+  s_ee85203726ac16::t_22e06fb5e511e0 1-17
+esp32-radio/worker/tests/runtime/access.test.ts
+  s_ee85203726ac16::t_99cfb16b6c7a76 1-30
+esp32-radio/firmware/vendor/str0m/src/sdp/mod.rs
+  s_ee85203726ac16::t_2cc492dbe01700 1-201
+esp32-radio/firmware/vendor/str0m/src/streams/register_nack.rs
+  s_ee85203726ac16::t_ba2d003ff64e75 1-649
+esp32-radio/firmware/vendor/str0m/src/bwe/delay/control.rs
+  s_ee85203726ac16::t_1b424e083950d3 1-226
+esp32-radio/scripts/test_http.py
+  s_ee85203726ac16::t_55b2479a366c28 1-34
+esp32-radio/firmware/vendor/sctp-proto/Cargo.toml.orig
+  s_ee85203726ac16::t_551c8584de8fc7 1-30
+esp32-radio/worker/src/client/exhibit/controls/telemetry-readout.tsx
+  s_ee85203726ac16::t_4d113833d96e22 1-46
+esp32-radio/worker/src/client/exhibit/diagram/diagram-model.ts
+  s_ee85203726ac16::t_e8b97b7e2b2531 1-25
+esp32-radio/worker/src/client/exhibit/spectrum/spectrum-canvas.tsx
+  s_ee85203726ac16::t_f59c01a90a6225 1-64
+esp32-radio/firmware/platform/http.c
+  s_ee85203726ac16::t_768da3bc30471c 1-118
+esp32-radio/worker/tsconfig.runtime-test.json
+  s_ee85203726ac16::t_3a6e2aa57ebce7 1-6
+esp32-radio/firmware/vendor/str0m/src/lib.rs
+  s_ee85203726ac16::t_723db25ebd5cef 1-2260
+esp32-radio/worker/src/server/http.ts
+  s_ee85203726ac16::t_7ea2b0087f9d68 1-48
+esp32-radio/firmware/vendor/sctp-proto/src/association/state.rs
+  s_ee85203726ac16::t_6bded7b2022883 1-102
+esp32-radio/firmware/crates/esp32-radio/src/platform/mod.rs
+  s_ee85203726ac16::t_f63550de6395ce 1-108
+esp32-radio/worker/src/shared/contracts/signaling.test.ts
+  s_ee85203726ac16::t_e263dba63bc229 1-63
+esp32-radio/ERRATA.md
+  s_ee85203726ac16::t_967c9d9d2102d3 1-53,56-92,100-124
+  s_ee85203726ac16::t_d7d92b33bac596 54-55,93-99
+esp32-radio/firmware/vendor/sctp-proto/src/chunk/chunk_selective_ack.rs
+  s_ee85203726ac16::t_02c09a56e1043c 1-158
+esp32-radio/AGENTS.md
+  s_ee85203726ac16::t_cae43065c3fef3 1,3-6,8,10-17,19-22,38-39,45-47,49-54
+  s_ee85203726ac16::t_967c9d9d2102d3 2,7,9,18,23-37,40-44,48
+esp32-radio/firmware/docs/sfu.md
+  s_ee85203726ac16::t_4b722c2320712e 1-2,7-48,68-116,120-158
+  s_ee85203726ac16::t_b75439cbcd3185 3-6,49-67,117-119,159-164
+esp32-radio/firmware/vendor/str0m/src/bwe/mod.rs
+  s_ee85203726ac16::t_ee8a95d8a58d8d 1-486
+esp32-radio/firmware/vendor/str0m/src/streams/send.rs
+  s_ee85203726ac16::t_77d5e8502c0800 1-1330
+esp32-radio/firmware/vendor/str0m/docs/SDP.md
+  s_ee85203726ac16::t_01740aa0826cbc 1-185
+esp32-radio/firmware/vendor/str0m/tests/bwe/probes.rs
+  s_ee85203726ac16::t_5b9e24c27ce7f1 1-141
+esp32-radio/firmware/vendor/str0m/src/packet/mod.rs
+  s_ee85203726ac16::t_0a5f30520ab62b 1-517
+esp32-radio/scripts/deploy_worker.py
+  s_ee85203726ac16::t_a37cf637b1386b 1-34
+esp32-radio/firmware/platform/audio.c
+  s_ee85203726ac16::t_fcb9323f7bd52a 1-104
+esp32-radio/firmware/crates/esp32-radio/src/platform/crypto/self_test/extended.rs
+  s_ee85203726ac16::t_1bf91b43c7420a 1-178
+esp32-radio/firmware/vendor/str0m-rust-crypto/src/srtp.rs
+  s_ee85203726ac16::t_c74a0ccbf73ab0 1-322
+esp32-radio/firmware/vendor/str0m/docs/RELEASE.md
+  s_ee85203726ac16::t_5d94dbfd75d635 1-82
+esp32-radio/firmware/vendor/sctp-proto/README.md
+  s_ee85203726ac16::t_515c59b30a1c6d 1-44
+esp32-radio/firmware/vendor/str0m/tests/data-channel.rs
+  s_ee85203726ac16::t_61f1e9ca2e0a41 1-660
+esp32-radio/firmware/vendor/str0m/tests/sdp-m-recycle.rs
+  s_ee85203726ac16::t_54010a2d854f2d 1-534
+esp32-radio/scripts/test_music.py
+  s_ee85203726ac16::t_40ecf4b30c0d6c 1-30
+esp32-radio/firmware/partitions.csv
+  s_ee85203726ac16::t_fae1bdace03595 1-5
+esp32-radio/worker/src/shared/contracts/hardware.test.ts
+  s_ee85203726ac16::t_185cce837e2bb2 1-53
+scripts/lib/secrets.mjs
+  s_ee85203726ac16::t_5498e5751d235d 13
+esp32-radio/firmware/vendor/str0m/src/bwe/alr_detector/budget.rs
+  s_ee85203726ac16::t_c4284ddc293e36 1-281
+esp32-radio/PRODUCTION.md
+  s_ee85203726ac16::t_d7d92b33bac596 3-6,16-17,19,26-28,32-34,38-40,48,72-79,92-94,99-107
+  s_ee85203726ac16::t_d001454b46361f 1-2,7-15,18,20-25,29-31,35-37,41-47,49-71,80-91,95-98
+esp32-radio/worker/src/client/exhibit/exhibit.tsx
+  s_ee85203726ac16::t_fbe7e8961a5ba9 1-166
+esp32-radio/firmware/vendor/str0m/src/packet/vp8.rs
+  s_ee85203726ac16::t_d824f82eda281a 1-1264
+esp32-radio/firmware/main/CMakeLists.txt
+  s_ee85203726ac16::t_e75dd3fa84854e 1-78
+esp32-radio/firmware/vendor/sctp-proto/src/chunk/chunk_i_forward_tsn.rs
+  s_ee85203726ac16::t_cd8b756b73200b 1-121
+esp32-radio/firmware/vendor/str0m/tests/abs-capture-time.rs
+  s_ee85203726ac16::t_b1e26eb4a2893d 1-142
+esp32-radio/firmware/crates/radio-core/src/lib.rs
+  s_ee85203726ac16::t_79558fdcd3341b 1-15
+esp32-radio/firmware/.clang-format
+  s_ee85203726ac16::t_b5fefcfb9a0367 1-13
+esp32-radio/worker/src/client/radio/protocol.test.ts
+  s_ee85203726ac16::t_af1ab9c9ca4196 1-46
+esp32-radio/firmware/vendor/str0m/tests/data/h266.txt
+  s_ee85203726ac16::t_eecf620cb1db21 1-323
+esp32-radio/firmware/dependencies.lock
+  s_ee85203726ac16::t_6c4674239a6903 1-21
+esp32-radio/scripts/test_crypto_profile.py
+  s_ee85203726ac16::t_d1c6d09291789a 1-37
+esp32-radio/firmware/vendor/str0m/src/crypto/srtp.rs
+  s_ee85203726ac16::t_63ff8eacadeb57 1-529
+esp32-radio/firmware/vendor/str0m/src/packet/g7xx.rs
+  s_ee85203726ac16::t_1df32dc8872a15 1-164
+esp32-radio/worker/src/client/exhibit/diagram/sfu-node.tsx
+  s_ee85203726ac16::t_73293da21b9730 1-55
+esp32-radio/firmware/vendor/str0m/src/bwe/loss_controller.rs
+  s_ee85203726ac16::t_cd3d17dff202ce 1-1551
+esp32-radio/firmware/vendor/str0m/tests/repeated.rs
+  s_ee85203726ac16::t_ffb20a490ed6ac 1-106
+esp32-radio/firmware/vendor/str0m/src/packet/h265.rs
+  s_ee85203726ac16::t_66565253daa7ee 1-5203
+esp32-radio/worker/tests/fixtures/radio.tsx
+  s_ee85203726ac16::t_6d27ec29d683f6 1-72
+esp32-radio/worker/src/server/room-state.ts
+  s_ee85203726ac16::t_2659470e9c54cc 1-36
+esp32-radio/firmware/vendor/str0m-rust-crypto/src/lib.rs
+  s_ee85203726ac16::t_4aabccde6a4a39 1-42
+esp32-radio/worker/src/server/routes/context.ts
+  s_ee85203726ac16::t_8bbc52bd7e15ce 1-10
+esp32-radio/firmware/vendor/str0m/tests/stale-network-time-after-pause.rs
+  s_ee85203726ac16::t_0bb2f9138dddb4 1-516
+esp32-radio/firmware/vendor/str0m-rust-crypto/src/dtls.rs
+  s_ee85203726ac16::t_8276135df4b7de 1-159
+esp32-radio/firmware/vendor/str0m/tests/rtx-cache-0.rs
+  s_ee85203726ac16::t_724cca6b9ff1ee 1-118
+esp32-radio/worker/vite.config.ts
+  s_ee85203726ac16::t_97306afcc124a5 1-34
+esp32-radio/firmware/vendor/str0m/src/rtp/error.rs
+  s_ee85203726ac16::t_2ef02ade427cd7 1-49
+esp32-radio/firmware/vendor/str0m/tests/ice-remote-binding-keepalive.rs
+  s_ee85203726ac16::t_24b5ea5b17d373 1-82
+esp32-radio/README.md
+  s_ee85203726ac16::t_d001454b46361f 1
+  s_ee85203726ac16::t_ee55644db15cfd 15-17
+  s_ee85203726ac16::t_c2b0f7ebbbc856 3-13,19-21,25,27-35,45-46,50-58,60-72,80-82,92-96,100-102,125-128,132-134,145-149,165-166,173-176
+  s_ee85203726ac16::t_967c9d9d2102d3 2,18,22,26,36-44,47-49,59,73-79,83-91,97-99,103-124,129-131,135-144,150-164,167-172
+  s_ee85203726ac16::t_0d87cf3b0aa54e 14
+  s_ee85203726ac16::t_a641aa106a8806 23-24
+esp32-radio/firmware/crates/esp32-radio/src/signaling.rs
+  s_ee85203726ac16::t_d872eb98b097a1 1-169
+esp32-radio/scripts/prepare_music.py
+  s_ee85203726ac16::t_3741ce4b56709c 1-163
+esp32-radio/firmware/platform/crypto_ec.c
+  s_ee85203726ac16::t_f80567268be673 1-156
+esp32-radio/worker/src/server/index.ts
+  s_ee85203726ac16::t_19d2252dddac14 1-71
+esp32-radio/firmware/vendor/sctp-proto/src/param/param_outgoing_reset_request.rs
+  s_ee85203726ac16::t_3a41be09966ffd 1-125
+esp32-radio/firmware/vendor/str0m/src/util/bit_pattern.rs
+  s_ee85203726ac16::t_8865eeed7f7388 1-107
+esp32-radio/worker/src/server/auth.ts
+  s_ee85203726ac16::t_c472c411cbd8f5 1-59
+esp32-radio/firmware/crates/esp32-radio/src/radio.rs
+  s_ee85203726ac16::t_186a501f0ea04b 1-278
+esp32-radio/firmware/vendor/str0m/tests/mediatime-backwards.rs
+  s_ee85203726ac16::t_9cb6155da59d4d 1-207
+esp32-radio/firmware/vendor/str0m-rust-crypto/README.md
+  s_ee85203726ac16::t_15cbc8773e6833 1-29
+esp32-radio/worker/src/client/exhibit/details/hardware-details.tsx
+  s_ee85203726ac16::t_fad8db8860e276 1-56
+esp32-radio/worker/src/client/styles.css
+  s_ee85203726ac16::t_790ab5911bd759 1-116
+esp32-radio/firmware/vendor/str0m/tests/sdp-negotiation.rs
+  s_ee85203726ac16::t_3f1d7f4c2badfb 1-1530
+esp32-radio/worker/src/shared/contracts/track.ts
+  s_ee85203726ac16::t_04d1ee06b07ba1 1-44
+esp32-radio/firmware/platform/tests/crypto_profile/freertos/FreeRTOS.h
+  s_ee85203726ac16::t_bc4d12cb05525b 1-18
+esp32-radio/firmware/vendor/str0m/src/rtp/rtcp/fmt.rs
+  s_ee85203726ac16::t_92ec01d10a1c52 1-132
+esp32-radio/firmware/vendor/str0m/src/rtp/vla.rs
+  s_ee85203726ac16::t_5682cd1f57554e 1-1165
+esp32-radio/firmware/vendor/sctp-proto/src/chunk/chunk_forward_tsn.rs
+  s_ee85203726ac16::t_8b8f7b074b03c9 1-179
+esp32-radio/firmware/Cargo.lock
+  s_ee85203726ac16::t_23c76fb6d9f3dc 1-2369
+esp32-radio/worker/src/client/exhibit/audio/audio-panel.tsx
+  s_ee85203726ac16::t_9e86246570b93a 1-128
+esp32-radio/firmware/vendor/str0m/src/rtp/rtcp/header.rs
+  s_ee85203726ac16::t_a25f866b8667e1 1-198
+esp32-radio/firmware/vendor/str0m/tests/bwe/recovery.rs
+  s_ee85203726ac16::t_a72930961a574c 1-190
+esp32-radio/firmware/crates/esp32-radio/src/platform/crypto/native.rs
+  s_ee85203726ac16::t_3181af3ae2bdff 1-212
+esp32-radio/firmware/sdkconfig.defaults
+  s_ee85203726ac16::t_c0449b8c4c510d 1-38
+esp32-radio/worker/src/client/radio/use-radio.ts
+  s_ee85203726ac16::t_f25ec13b65be75 1-30
+esp32-radio/firmware/vendor/str0m/src/crypto/finger.rs
+  s_ee85203726ac16::t_2ff9e62682b07b 1-89
+esp32-radio/firmware/vendor/sctp-proto/src/queue/pending_queue.rs
+  s_ee85203726ac16::t_f41109611f5a00 1-120
+esp32-radio/worker/tests/helpers/sfu.mjs
+  s_ee85203726ac16::t_0a94e7154f7d0f 1-47
+esp32-radio/firmware/crates/radio-core/src/metrics.rs
+  s_ee85203726ac16::t_9a4592576575dd 1-50
+esp32-radio/worker/tests/states.mjs
+  s_ee85203726ac16::t_4243f5bcc9d11a 1-231
+esp32-radio/firmware/vendor/str0m/tests/data/vp9.txt
+  s_ee85203726ac16::t_6db677dbd3d730 1-316
+esp32-radio/firmware/platform/include/radio_bridge.h
+  s_ee85203726ac16::t_2e50a4e95d5b32 1-110
+esp32-radio/firmware/vendor/str0m/src/bwe/delay/arrival_group.rs
+  s_ee85203726ac16::t_92baa37de08d9a 1-437
+esp32-radio/blueprint.yaml
+  s_ee85203726ac16::t_5498e5751d235d 1-50
+esp32-radio/firmware/vendor/str0m/src/packet/av1.rs
+  s_ee85203726ac16::t_0bce8fda9f1fc1 1-1278
+esp32-radio/firmware/crates/esp32-radio/src/platform/crypto/suites.rs
+  s_ee85203726ac16::t_3ba48e40b4d9ce 1-166
+esp32-radio/firmware/crates/esp32-radio/src/metrics.rs
+  s_ee85203726ac16::t_4e3bf32eb7430d 1-84
+esp32-radio/worker/src/client/ui/icons.tsx
+  s_ee85203726ac16::t_be601fc66795e3 1-78
+esp32-radio/firmware/vendor/str0m/src/media/writer.rs
+  s_ee85203726ac16::t_51d201ce3f9a16 1-249
+esp32-radio/firmware/vendor/sctp-proto/src/chunk/chunk_shutdown.rs
+  s_ee85203726ac16::t_97e6e7235621f9 1-70
+esp32-radio/firmware/crates/esp32-radio/src/platform/music.rs
+  s_ee85203726ac16::t_7df16dc96c8100 1-103
+esp32-radio/firmware/vendor/sctp-proto/src/param/param_supported_extensions.rs
+  s_ee85203726ac16::t_c7a0ff5f925bd1 1-69
+esp32-radio/worker/tsconfig.worker.json
+  s_ee85203726ac16::t_8ec0ec295fd124 1-18
+esp32-radio/Makefile
+  s_ee85203726ac16::t_6694ec025c20e3 1-107
+esp32-radio/docs/architecture.svg
+  s_ee85203726ac16::t_29e19f5bb47d4f 1-124
+esp32-radio/firmware/vendor/sctp-proto/CHANGELOG.md
+  s_ee85203726ac16::t_dbeab1d1b5c33d 1-107
+esp32-radio/firmware/vendor/str0m/tests/data/h264.txt
+  s_ee85203726ac16::t_9ca1d9a166771f 1-298
+esp32-radio/firmware/vendor/str0m/src/bwe/smoother.rs
+  s_ee85203726ac16::t_1e41962dd4a096 1-96
+esp32-radio/firmware/vendor/str0m/src/packet/h264_profile.rs
+  s_ee85203726ac16::t_7c5fd5bd6c5311 1-374
+esp32-radio/worker/tests/runtime/publisher.test.ts
+  s_ee85203726ac16::t_d030bf58f99076 1-75
+README.md
+  s_ee85203726ac16::t_cae43065c3fef3 13-25,75,100-102
+esp32-radio/worker/src/client/App.tsx
+  s_ee85203726ac16::t_13062c1bad13fc 1-66
+esp32-radio/scripts/flash_backup.py
+  s_ee85203726ac16::t_f81953832e7823 1-98
+esp32-radio/firmware/vendor/str0m/src/rtp/rtcp/fir.rs
+  s_ee85203726ac16::t_def549c043fb96 1-94
+esp32-radio/firmware/vendor/str0m/tests/network-conditions.rs
+  s_ee85203726ac16::t_872fb9661278fd 1-395
+esp32-radio/firmware/crates/radio-webrtc/src/network/tests.rs
+  s_ee85203726ac16::t_17551a438fea2b 1-129
+esp32-radio/firmware/vendor/str0m/src/io/mod.rs
+  s_ee85203726ac16::t_95ca943b8545d9 1-182
+esp32-radio/firmware/vendor/str0m/tests/audio-inactive-probe.rs
+  s_ee85203726ac16::t_20cd547f89ad1e 1-88
+esp32-radio/firmware/vendor/sctp-proto/src/chunk/chunk_shutdown_ack.rs
+  s_ee85203726ac16::t_871c3dba2ad430 1-55
+esp32-radio/firmware/crates/esp32-radio/src/platform/crypto/dtls.rs
+  s_ee85203726ac16::t_c8c5bdb49cf0b0 1-30
+esp32-radio/scripts/device_port.py
+  s_ee85203726ac16::t_9296db84e946ab 1-7
+esp32-radio/firmware/vendor/str0m/src/sctp/error.rs
+  s_ee85203726ac16::t_d04de85fdcb893 1-55
+esp32-radio/firmware/vendor/str0m/src/pacer/null.rs
+  s_ee85203726ac16::t_705475a750c63e 1-84
+esp32-radio/firmware/vendor/str0m/src/sctp/dcep.rs
+  s_ee85203726ac16::t_9337b925363884 1-122
+esp32-radio/.nvmrc
+  s_ee85203726ac16::t_5498e5751d235d 1
+esp32-radio/worker/package-lock.json
+  s_ee85203726ac16::t_87e386c5a4154c 1-3988
+esp32-radio/firmware/crates/esp32-radio/src/platform/metrics.rs
+  s_ee85203726ac16::t_b122585905078c 1-74
+esp32-radio/firmware/vendor/str0m/src/stats.rs
+  s_ee85203726ac16::t_c0e780de058c3b 1-337
+esp32-radio/firmware/vendor/sctp-proto/src/shared.rs
+  s_ee85203726ac16::t_e1320659f31936 1-83
+esp32-radio/firmware/vendor/str0m/Cargo.toml
+  s_ee85203726ac16::t_511be0f2f9e89b 1-434
+esp32-radio/firmware/crates/esp32-radio/src/platform/audio.rs
+  s_ee85203726ac16::t_be37ad20eda5fd 1-100
+esp32-radio/firmware/vendor/sctp-proto/src/association/timer.rs
+  s_ee85203726ac16::t_d07d39798be679 1-243
+esp32-radio/firmware/vendor/str0m/src/change/sdp.rs
+  s_ee85203726ac16::t_7e8ee280a10cbc 1-2734
+esp32-radio/firmware/vendor/str0m/src/pacer/mod.rs
+  s_ee85203726ac16::t_e1d1d35663e60c 1-164
+esp32-radio/firmware/crates/radio-webrtc/tests/fixtures/README.md
+  s_ee85203726ac16::t_04f21df5a3edbc 1-7
+esp32-radio/firmware/vendor/str0m/Cargo.toml.orig
+  s_ee85203726ac16::t_fcbd16a66dc9af 1-184
+esp32-radio/firmware/vendor/str0m/docs/bwe-dataflow.svg
+  s_ee85203726ac16::t_cee5d4ef144ea9 1-346
+esp32-radio/firmware/vendor/str0m/src/streams/receive.rs
+  s_ee85203726ac16::t_25b6bda9d4c52f 1-911
+esp32-radio/worker/public/fonts/LICENSE.txt
+  s_ee85203726ac16::t_21f672d2ba4d9b 1-191
+esp32-radio/worker/src/client/exhibit/controls/controls-panel.tsx
+  s_ee85203726ac16::t_1a6be375fffa03 1-149
+esp32-radio/scripts/flash_cache.py
+  s_ee85203726ac16::t_e733e9245aa4e9 1-122
+esp32-radio/firmware/vendor/str0m/tests/ice-restart.rs
+  s_ee85203726ac16::t_41ff7795944912 1-88
+esp32-radio/scripts/test_build_firmware.py
+  s_ee85203726ac16::t_29aa01d150f3b3 1-118
+esp32-radio/firmware/vendor/str0m/src/pacer/leaky.rs
+  s_ee85203726ac16::t_a7e1378876c25b 1-1370
+esp32-radio/firmware/vendor/str0m/src/format/codec.rs
+  s_ee85203726ac16::t_a91a73cfae2da6 1-211
+esp32-radio/firmware/vendor/str0m/src/bwe/probe/estimator.rs
+  s_ee85203726ac16::t_42493ef16855ad 1-696
+esp32-radio/firmware/vendor/str0m-rust-crypto/PATCH.md
+  s_ee85203726ac16::t_0e740e711f48b4 1-29
+esp32-radio/firmware/vendor/str0m/src/rtp/srtp.rs
+  s_ee85203726ac16::t_ba7b4f891c6871 1-1543
+esp32-radio/firmware/crates/radio-webrtc/tests/loopback.rs
+  s_ee85203726ac16::t_5c504adeaed624 1-297
+esp32-radio/firmware/crates/radio-core/src/protocol.rs
+  s_ee85203726ac16::t_2a06cf99dfef05 1-159
+esp32-radio/firmware/vendor/str0m/src/packet/h265_profile.rs
+  s_ee85203726ac16::t_cf557abc5d701b 1-374
+esp32-radio/firmware/vendor/str0m/tests/ice-candidates.rs
+  s_ee85203726ac16::t_c7e0b1ce4f312a 1-576
+esp32-radio/firmware/vendor/str0m/src/rtp/rtcp/remb.rs
+  s_ee85203726ac16::t_d5e1bf5340035b 1-310
+esp32-radio/firmware/vendor/str0m/tests/malformed-packet-injection.rs
+  s_ee85203726ac16::t_813b6f26772f2b 1-242
+esp32-radio/firmware/vendor/str0m/src/packet/LICENSE-APACHE.txt
+  s_ee85203726ac16::t_8036f8936cfa90 1-201
+esp32-radio/firmware/vendor/str0m/tests/flappy-ice-state.rs
+  s_ee85203726ac16::t_3087add92fc463 1-59
+esp32-radio/firmware/vendor/str0m/tests/no-local-media-added.rs
+  s_ee85203726ac16::t_81e2bd0e14c084 1-93
+esp32-radio/worker/dev/live-backend.ts
+  s_ee85203726ac16::t_bcf65982fd46d3 1-75
+esp32-radio/scripts/project.py
+  s_ee85203726ac16::t_a29549fa93676f 1-71
+esp32-radio/firmware/vendor/str0m/src/session.rs
+  s_ee85203726ac16::t_0adce33261496c 1-1329
+esp32-radio/worker/tests/bundle.test.mjs
+  s_ee85203726ac16::t_5290f57f2fc14e 1-37
+esp32-radio/scripts/prepare_secrets.py
+  s_ee85203726ac16::t_9153a01de34624 1-24
+esp32-radio/firmware/crates/esp32-radio/src/platform/crypto_profile.rs
+  s_ee85203726ac16::t_b7180f004c16f9 1-40
+esp32-radio/firmware/vendor/str0m/tests/bwe/delay.rs
+  s_ee85203726ac16::t_0700a39cae5c5c 1-103
+esp32-radio/firmware/vendor/sctp-proto/src/endpoint/endpoint_test.rs
+  s_ee85203726ac16::t_fe5a2de37888ad 1-3867
+esp32-radio/firmware/vendor/str0m/src/crypto/mod.rs
+  s_ee85203726ac16::t_d9409ce13a7496 1-66
+esp32-radio/firmware/vendor/str0m/src/util/mod.rs
+  s_ee85203726ac16::t_a4e2e1b8d6762b 1-87
+esp32-radio/firmware/crates/esp32-radio/src/error.rs
+  s_ee85203726ac16::t_54b25f85cda88c 1-72
+esp32-radio/scripts/test_monitor.py
+  s_ee85203726ac16::t_bf831ea7ccf9d3 1-85
+esp32-radio/worker/package.json
+  s_ee85203726ac16::t_218a213cb34925 1-46
+esp32-radio/worker/tsconfig.test.json
+  s_ee85203726ac16::t_58e1d27c4c1a3d 1-9
+esp32-radio/firmware/vendor/str0m/src/bwe/probe/cluster.rs
+  s_ee85203726ac16::t_ddcc8f1c9b1509 1-431
+esp32-radio/firmware/vendor/str0m/PATCH.md
+  s_ee85203726ac16::t_72c9a8e4763ed3 1-63
+esp32-radio/firmware/vendor/str0m/tests/dlrr.rs
+  s_ee85203726ac16::t_9b4ed00ec47f1c 1-151
+esp32-radio/worker/src/client/exhibit/details/signal-descriptions.ts
+  s_ee85203726ac16::t_9eb9a7c72d5b41 1-25
+esp32-radio/firmware/vendor/sctp-proto/src/param/param_uknown.rs
+  s_ee85203726ac16::t_5ee17250d6d1e2 1-69
+esp32-radio/firmware/vendor/str0m/tests/vla.rs
+  s_ee85203726ac16::t_727d32611c19a6 1-204
+esp32-radio/firmware/vendor/sctp-proto/src/association/stream.rs
+  s_ee85203726ac16::t_ec3b7c50edf929 1-626
+esp32-radio/firmware/vendor/str0m/src/bwe/probe/mod.rs
+  s_ee85203726ac16::t_0b03e3688dd8ba 1-7
+esp32-radio/firmware/vendor/str0m/src/rtp/rtcp/list.rs
+  s_ee85203726ac16::t_247b5e2ba8ac66 1-252
+esp32-radio/firmware/vendor/str0m/src/format/mod.rs
+  s_ee85203726ac16::t_ee9c37c9dfa593 1-29
+esp32-radio/firmware/platform/entry.c
+  s_ee85203726ac16::t_83d89a6d24db67 1-8
+esp32-radio/firmware/crates/esp32-radio/src/console.rs
+  s_ee85203726ac16::t_f065519c226235 1-41
+esp32-radio/TROUBLESHOOTING.md
+  s_ee85203726ac16::t_d7d92b33bac596 25,29-32
+  s_ee85203726ac16::t_d001454b46361f 1-24,26-28,33-38
+esp32-radio/worker/dev/hosts.ts
+  s_ee85203726ac16::t_557e61e4e3b309 1-47
+esp32-radio/firmware/vendor/str0m/src/rtp/dir.rs
+  s_ee85203726ac16::t_26d9c5b4cdf3ca 1-85
+esp32-radio/firmware/vendor/str0m/src/rtp/rtcp/sr.rs
+  s_ee85203726ac16::t_d6fc42cc196ec2 1-150
+esp32-radio/firmware/vendor/str0m/src/media/mod.rs
+  s_ee85203726ac16::t_5b8e034a5c05ab 1-686
+esp32-radio/firmware/platform/crypto_hash.c
+  s_ee85203726ac16::t_d9388d5284df97 1-119
+esp32-radio/firmware/vendor/str0m/src/streams/rtx_cache_buf.rs
+  s_ee85203726ac16::t_4f481043eb1408 1-386
+esp32-radio/firmware/vendor/str0m/tests/mtu-compliance.rs
+  s_ee85203726ac16::t_d815b57a250358 1-110
+esp32-radio/firmware/vendor/sctp-proto/src/param/param_header.rs
+  s_ee85203726ac16::t_d3224ba18354cf 1-62
+esp32-radio/firmware/vendor/str0m/tests/app-specific-feedback.rs
+  s_ee85203726ac16::t_d18dee83c1afd0 1-213
+esp32-radio/firmware/vendor/str0m/docs/net.md
+  s_ee85203726ac16::t_9a8701f9ee64b8 1-18
+esp32-radio/scripts/test_flash_backup.py
+  s_ee85203726ac16::t_98af6af5228a0c 1-68
+esp32-radio/firmware/vendor/str0m/src/util/value_history.rs
+  s_ee85203726ac16::t_02545ac1a06ba3 1-109
+esp32-radio/firmware/vendor/str0m/src/pacer/queue.rs
+  s_ee85203726ac16::t_b6ab4dfdcbff20 1-108
+esp32-radio/firmware/platform/tests/crypto_profile/freertos/task.h
+  s_ee85203726ac16::t_f6abc00415abd4 1-3
+esp32-radio/firmware/vendor/sctp-proto/src/param/param_random.rs
+  s_ee85203726ac16::t_3c3542599cefab 1-46
+esp32-radio/firmware/vendor/str0m/src/rtp/rtcp/rr.rs
+  s_ee85203726ac16::t_0456b28b0cd6cb 1-133
+esp32-radio/worker/src/server/routes/device.ts
+  s_ee85203726ac16::t_f04cbdd1132e25 1-24
+esp32-radio/firmware/vendor/str0m/src/sctp/snap.rs
+  s_ee85203726ac16::t_4df0f843ba1473 1-187
+esp32-radio/scripts/setup_tooling.py
+  s_ee85203726ac16::t_a0907232d02d92 1-92
+esp32-radio/firmware/vendor/str0m/src/streams/send_queue.rs
+  s_ee85203726ac16::t_987834ecd1d33c 1-346
+esp32-radio/firmware/vendor/str0m-rust-crypto/provider.patch
+  s_ee85203726ac16::t_5cce7815e7d185 1-160
+esp32-radio/firmware/vendor/str0m/src/rtp/rtcp/sdes.rs
+  s_ee85203726ac16::t_74e125f5959545 1-325
+esp32-radio/scripts/test_music_partition.py
+  s_ee85203726ac16::t_17ad2690588ca2 1-24
+esp32-radio/firmware/main/idf_component.yml
+  s_ee85203726ac16::t_276fe087e2cbc7 1-3
+esp32-radio/firmware/vendor/str0m/src/change/mod.rs
+  s_ee85203726ac16::t_f1a85c9f1fbd36 1-20
+esp32-radio/firmware/vendor/str0m/tests/srtp-replay-attack.rs
+  s_ee85203726ac16::t_1ce361fd262237 1-234
+esp32-radio/firmware/platform/tests/http/esp_http_client.h
+  s_ee85203726ac16::t_ec4c9c8541c4ff 1-41
+esp32-radio/worker/tsconfig.app.json
+  s_ee85203726ac16::t_074b98a58bfc98 1-21
+esp32-radio/firmware/crates/radio-core/tests/contracts.rs
+  s_ee85203726ac16::t_6a392685129f1f 1-305
+esp32-radio/worker/tests/runtime/leases.test.ts
+  s_ee85203726ac16::t_45854c0601a97f 1-54
+esp32-radio/worker/src/client/exhibit/details/signal-popover.tsx
+  s_ee85203726ac16::t_4b17e9938193e4 1-49
+esp32-radio/firmware/vendor/sctp-proto/src/param/param_forward_tsn_supported.rs
+  s_ee85203726ac16::t_b63a7490f46790 1-49
+esp32-radio/firmware/vendor/sctp-proto/LICENSE-APACHE
+  s_ee85203726ac16::t_5d6ea22f6ef2fe 1-202
+esp32-radio/firmware/vendor/sctp-proto/src/param/param_reconfig_response.rs
+  s_ee85203726ac16::t_5a1daa307a42f3 1-135
+esp32-radio/firmware/platform/tests/http/signaling_private.h
+  s_ee85203726ac16::t_eb3062b24b9761 1-4
+esp32-radio/firmware/vendor/str0m/src/rtp/rtcp/twcc.rs
+  s_ee85203726ac16::t_a0eb3309c099c6 1-2327
+esp32-radio/firmware/crates/radio-webrtc/src/audio/tests.rs
+  s_ee85203726ac16::t_8f07008f3f6819 1-297
+esp32-radio/firmware/vendor/str0m/tests/bwe/estimate.rs
+  s_ee85203726ac16::t_26c85b8b312597 1-167
+esp32-radio/firmware/docs/music.md
+  s_ee85203726ac16::t_55b16f4af00305 1-2,23-71
+  s_ee85203726ac16::t_b93e4592d5f53a 3-22
+esp32-radio/firmware/vendor/sctp-proto/src/chunk/chunk_reconfig.rs
+  s_ee85203726ac16::t_00a2d13ae078cd 1-150
+esp32-radio/worker/src/server/sfu.ts
+  s_ee85203726ac16::t_7543c5522d0153 1-132
+esp32-radio/firmware/vendor/str0m/src/sdp/error.rs
+  s_ee85203726ac16::t_6b46e4367863de 1-21
+esp32-radio/firmware/vendor/sctp-proto/src/association/stats.rs
+  s_ee85203726ac16::t_2a34ba04dbe4a7 1-59
+esp32-radio/firmware/vendor/str0m/tests/data/vp8.txt
+  s_ee85203726ac16::t_ab0eb77d5004bf 1-104
+esp32-radio/firmware/vendor/sctp-proto/src/param/param_chunk_list.rs
+  s_ee85203726ac16::t_ef3e29930b0f37 1-73
+esp32-radio/scripts/serial_device.py
+  s_ee85203726ac16::t_d4de0094e67696 1-22
+esp32-radio/firmware/vendor/str0m/src/packet/payload.rs
+  s_ee85203726ac16::t_d5350ec0f1a8c6 1-105
+esp32-radio/worker/src/shared/contracts/channels.ts
+  s_ee85203726ac16::t_ec75b7bcd55d2c 1-39
+esp32-radio/firmware/vendor/sctp-proto/PATCH.md
+  s_ee85203726ac16::t_8e30f5c4da2b70 1-64
+esp32-radio/worker/src/client/exhibit/controls/led-controls.tsx
+  s_ee85203726ac16::t_552b334fa78ec5 1-52
+esp32-radio/firmware/vendor/str0m/src/rtp/rtcp/mod.rs
+  s_ee85203726ac16::t_c3e045658a006f 1-726
+esp32-radio/firmware/platform/tests/crypto_profile/profile_test.c
+  s_ee85203726ac16::t_d480b12829195c 1-121
+esp32-radio/worker/src/client/exhibit/spectrum/spectrum-panel.tsx
+  s_ee85203726ac16::t_621b56a1605d10 1-39
+esp32-radio/firmware/vendor/str0m/src/error.rs
+  s_ee85203726ac16::t_f5b4fbcf2d0013 1-182
+esp32-radio/worker/tests/live.mjs
+  s_ee85203726ac16::t_57bfd19e6ecc0c 1-300
+esp32-radio/worker/src/client/ui/login.tsx
+  s_ee85203726ac16::t_92970d908266cc 1-50
+esp32-radio/worker/tests/runtime/cleanup.test.ts
+  s_ee85203726ac16::t_b1c3e7850f5f62 1-112
+esp32-radio/firmware/vendor/str0m/docs/bwe-dataflow.dot
+  s_ee85203726ac16::t_493ce340d1fbd6 1-112
+esp32-radio/firmware/vendor/str0m/src/bwe/delay/mod.rs
+  s_ee85203726ac16::t_31123755995daf 1-6
+esp32-radio/firmware/vendor/str0m/src/rtp/header.rs
+  s_ee85203726ac16::t_c5bc390fa15390 1-926
+esp32-radio/firmware/crates/esp32-radio/src/lib.rs
+  s_ee85203726ac16::t_030d273849302d 1-19
+esp32-radio/firmware/vendor/str0m/src/config.rs
+  s_ee85203726ac16::t_cac05fffbc9908 1-864
+esp32-radio/worker/wrangler.jsonc
+  s_ee85203726ac16::t_5498e5751d235d 1-21
+esp32-radio/firmware/vendor/sctp-proto/src/param/param_state_cookie.rs
+  s_ee85203726ac16::t_6c54ed46a4863a 1-60
+esp32-radio/worker/src/client/radio/api.ts
+  s_ee85203726ac16::t_afa701a94474e7 1-92
+esp32-radio/worker/src/client/main.tsx
+  s_ee85203726ac16::t_97b4f491b8b7fc 1-10
+esp32-radio/worker/src/client/exhibit/board/board-illustration.tsx
+  s_ee85203726ac16::t_92b131716eec70 1-159
+esp32-radio/firmware/crates/esp32-radio/src/platform/ffi.rs
+  s_ee85203726ac16::t_b5df4ef93b991b 1-141
+esp32-radio/firmware/vendor/str0m/tests/bwe/changing.rs
+  s_ee85203726ac16::t_d1eb4914b0a0fe 1-106
+esp32-radio/worker/src/server/publisher-metadata.test.ts
+  s_ee85203726ac16::t_5f0bd044af500f 1-51
+esp32-radio/firmware/vendor/str0m/docs/chrome-types.txt
+  s_ee85203726ac16::t_f71f501a79b267 1-186
+esp32-radio/firmware/vendor/sctp-proto/src/packet.rs
+  s_ee85203726ac16::t_d1711119927751 1-505
+esp32-radio/firmware/vendor/str0m/tests/data-channel-direct.rs
+  s_ee85203726ac16::t_62fd5721271edb 1-128
+esp32-radio/firmware/vendor/str0m/src/rtp/id.rs
+  s_ee85203726ac16::t_4b088180ce425a 1-374
+esp32-radio/firmware/vendor/str0m/tests/handshake-direct.rs
+  s_ee85203726ac16::t_94b39a159775ae 1-895
+esp32-radio/firmware/vendor/str0m/src/rtp/rtcp/nack.rs
+  s_ee85203726ac16::t_7d18c0f54e1ea6 1-156
+esp32-radio/firmware/crates/radio-core/tests/metrics.rs
+  s_ee85203726ac16::t_addf4d80abee60 1-112
+esp32-radio/firmware/vendor/str0m/src/sdp/data.rs
+  s_ee85203726ac16::t_f0a1819f0707d4 1-3720
+esp32-radio/firmware/vendor/str0m/tests/data/h265.txt
+  s_ee85203726ac16::t_0aa3f25dc354ad 1-4310
+esp32-radio/worker/src/client/radio/playback.test.ts
+  s_ee85203726ac16::t_94d4e2a4cb176a 1-36
+esp32-radio/firmware/vendor/str0m/tests/bwe/alr.rs
+  s_ee85203726ac16::t_09ef680cd8d313 1-236
+esp32-radio/worker/dev/register-aliases.mjs
+  s_ee85203726ac16::t_c40038e6c708f6 1-19
+esp32-radio/worker/tests/runtime/setup.ts
+  s_ee85203726ac16::t_31db64bd1b4d93 1-18
+esp32-radio/LICENSE
+  s_ee85203726ac16::t_5498e5751d235d 1-21
+esp32-radio/firmware/vendor/str0m/tests/pii.rs
+  s_ee85203726ac16::t_9272723557db0a 1-174
+esp32-radio/firmware/vendor/sctp-proto/src/chunk/chunk_cookie_ack.rs
+  s_ee85203726ac16::t_73b0e830b91027 1-55
+esp32-radio/UPSTREAM.md
+  s_ee85203726ac16::t_4d67dca602f18d 9
+  s_ee85203726ac16::t_d7d92b33bac596 12-16
+  s_ee85203726ac16::t_cae43065c3fef3 3-4,7-8
+  s_ee85203726ac16::t_5498e5751d235d 1-2,5-6,10-11
+esp32-radio/firmware/vendor/str0m/src/rtp/rtcp/rtcpfb.rs
+  s_ee85203726ac16::t_990d727b501755 1-175
+esp32-radio/firmware/vendor/str0m/tests/nack.rs
+  s_ee85203726ac16::t_c1f7d3f986e5d4 1-313
+esp32-radio/firmware/vendor/str0m/src/streams/send_stats.rs
+  s_ee85203726ac16::t_be5619247358a5 1-190
+esp32-radio/worker/src/server/crypto.ts
+  s_ee85203726ac16::t_ba8eb76d3c2b52 1-7
+esp32-radio/firmware/vendor/sctp-proto/src/chunk/chunk_heartbeat.rs
+  s_ee85203726ac16::t_b0bc9c9dd9c975 1-93
+esp32-radio/worker/tests/layout.mjs
+  s_ee85203726ac16::t_0335a57d9012e7 1-118
+esp32-radio/firmware/crates/radio-core/tests/playlist.rs
+  s_ee85203726ac16::t_9e1887ddd4a506 1-276
+esp32-radio/worker/src/shared/contracts/signaling.ts
+  s_ee85203726ac16::t_4cff8f6b8f451a 1-55
+esp32-radio/firmware/platform/tests/crypto_profile/esp_timer.h
+  s_ee85203726ac16::t_b6b4ae78ffcb95 1-3
+esp32-radio/firmware/vendor/str0m-rust-crypto/LICENSE-MIT.txt
+  s_ee85203726ac16::t_3680a00e8827e8 1-7
+esp32-radio/firmware/crates/radio-core/src/music/catalog.rs
+  s_ee85203726ac16::t_e7af17dd3c1fb1 1-259
+esp32-radio/firmware/vendor/str0m/tests/stats.rs
+  s_ee85203726ac16::t_b980d3c9899bbc 1-226
+esp32-radio/firmware/vendor/sctp-proto/src/param/mod.rs
+  s_ee85203726ac16::t_ea7402074e0312 1-89
+esp32-radio/firmware/vendor/str0m/src/_internal_test_exports/mod.rs
+  s_ee85203726ac16::t_544ae7e69ef5de 1-48
+esp32-radio/firmware/vendor/str0m/src/format/payload_params.rs
+  s_ee85203726ac16::t_05516327c57042 1-1882
+esp32-radio/scripts/credentials.py
+  s_ee85203726ac16::t_360771de5b9a42 1-100
+esp32-radio/firmware/vendor/sctp-proto/src/chunk/chunk_shutdown_complete.rs
+  s_ee85203726ac16::t_e80a2460b2459e 1-55
+esp32-radio/firmware/vendor/str0m/tests/data/av1.txt
+  s_ee85203726ac16::t_f9a88bf29c3c1d 1-201
+esp32-radio/firmware/vendor/str0m/src/bwe/time.rs
+  s_ee85203726ac16::t_e9d81eed899ae6 1-760
+esp32-radio/firmware/vendor/sctp-proto/src/error.rs
+  s_ee85203726ac16::t_b9a9d8aaab96ab 1-239
+esp32-radio/worker/.prettierrc.json
+  s_ee85203726ac16::t_20bf85508dec0e 1
+esp32-radio/firmware/docs/ffi.md
+  s_ee85203726ac16::t_f5dbd5965a3709 1-131
+esp32-radio/firmware/vendor/str0m/docs/rtp.md
+  s_ee85203726ac16::t_37e100c4495609 1-80
+esp32-radio/firmware/README.md
+  s_ee85203726ac16::t_5f2f450770a42f 198,222
+  s_ee85203726ac16::t_b93e4592d5f53a 60-62,111-114,119-121,260-280
+  s_ee85203726ac16::t_d001454b46361f 1-59,63-110,115-118,122-197,199-221,223-259
+esp32-radio/worker/AGENTS.md
+  s_ee85203726ac16::t_cae43065c3fef3 7-8,17-19
+  s_ee85203726ac16::t_5d9128047c2b0a 20
+  s_ee85203726ac16::t_5f2f450770a42f 1-6,9-16,21-40
+esp32-radio/firmware/vendor/sctp-proto/src/chunk/chunk_abort.rs
+  s_ee85203726ac16::t_705153b7a2a83b 1-91
+esp32-radio/firmware/vendor/str0m/docs/BWE.md
+  s_ee85203726ac16::t_89c43f9a1660fe 1-792
+esp32-radio/firmware/platform/tests/http/http_test.c
+  s_ee85203726ac16::t_9fc17a91cb0121 1-291
+esp32-radio/firmware/vendor/str0m/src/streams/mod.rs
+  s_ee85203726ac16::t_0172db705f61ae 1-725
+esp32-radio/firmware/platform/tests/crypto_profile/native.c
+  s_ee85203726ac16::t_6c264e61990ef1 1-46
+esp32-radio/firmware/vendor/str0m/src/bwe/macros.rs
+  s_ee85203726ac16::t_1443a1c1374f00 1-98
+esp32-radio/worker/dev/hosts.test.ts
+  s_ee85203726ac16::t_7fa276e4899eaf 1-41
+esp32-radio/worker/src/client/ui/format.ts
+  s_ee85203726ac16::t_3f6d7111f52552 1-11
+esp32-radio/scripts/test_credentials.py
+  s_ee85203726ac16::t_5498e5751d235d 1-223
+esp32-radio/firmware/CMakeLists.txt
+  s_ee85203726ac16::t_d275e3e53abb14 1-6
+esp32-radio/firmware/vendor/str0m/tests/dtls-close.rs
+  s_ee85203726ac16::t_35524e3fb3020e 1-186
+esp32-radio/firmware/vendor/str0m/tests/crypto-compliance.rs
+  s_ee85203726ac16::t_14cf321bbc64fe 1-523
+esp32-radio/firmware/crates/esp32-radio/src/analysis.rs
+  s_ee85203726ac16::t_52613b9d4cdb0d 1-186
+esp32-radio/firmware/crates/esp32-radio/src/platform/task.rs
+  s_ee85203726ac16::t_d8c3612767a3bf 1-69
+esp32-radio/firmware/vendor/sctp-proto/transport.patch
+  s_ee85203726ac16::t_50e6195e1a02eb 1-551
+esp32-radio/firmware/vendor/sctp-proto/src/chunk/chunk_test.rs
+  s_ee85203726ac16::t_5a1dc29afdd337 1-771
+esp32-radio/scripts/backup_flash.py
+  s_ee85203726ac16::t_e2e8c234069757 1-27
+esp32-radio/firmware/crates/esp32-radio/src/platform/crypto/srtp.rs
+  s_ee85203726ac16::t_c2eb6d9e52bbfb 1-151
+scripts/test/secrets-repository.test.mjs
+  s_ee85203726ac16::t_5498e5751d235d 114-135
+esp32-radio/firmware/vendor/str0m/tests/bwe/simple.rs
+  s_ee85203726ac16::t_0999e648d37da1 1-126
+esp32-radio/firmware/vendor/str0m/LICENSE-MIT.txt
+  s_ee85203726ac16::t_fe01c772347c71 1-7
+esp32-radio/firmware/vendor/str0m/tests/common.rs
+  s_ee85203726ac16::t_607f20281cc159 1-695
+esp32-radio/worker/src/client/exhibit/board/core-meter.tsx
+  s_ee85203726ac16::t_c48d6e80b61bda 1-33
+esp32-radio/firmware/vendor/str0m/src/rtp/rtcp/xr.rs
+  s_ee85203726ac16::t_c3a1b1e96e6e0e 1-285
+esp32-radio/worker/tests/helpers/sfu-fixture.ts
+  s_ee85203726ac16::t_5498e5751d235d 1-160
+esp32-radio/firmware/vendor/str0m/tests/bwe/loss.rs
+  s_ee85203726ac16::t_b0608e05fb4f9a 1-119
+esp32-radio/firmware/crates/radio-webrtc/Cargo.toml
+  s_ee85203726ac16::t_d750bd4a046615 1-17
+esp32-radio/firmware/vendor/str0m/src/rtp/mod.rs
+  s_ee85203726ac16::t_981b2839fb8496 1-34
+esp32-radio/worker/src/server/publisher-metadata.ts
+  s_ee85203726ac16::t_81f566fc7b6838 1-57
+esp32-radio/scripts/config.py
+  s_ee85203726ac16::t_0cea204d799e80 1-47
+esp32-radio/firmware/vendor/str0m/src/packet/h264.rs
+  s_ee85203726ac16::t_69d6ff418051d4 1-927
+esp32-radio/firmware/vendor/str0m/docs/chrome-sdp.json
+  s_ee85203726ac16::t_2200cd16f0e58c 1-193
+esp32-radio/firmware/crates/esp32-radio/src/platform/crypto/key.rs
+  s_ee85203726ac16::t_b6462b4356c121 1-28
+esp32-radio/firmware/vendor/str0m/tests/user-rtp-header-extension.rs
+  s_ee85203726ac16::t_20b577f5da554a 1-305
+esp32-radio/firmware/vendor/sctp-proto/src/queue/mod.rs
+  s_ee85203726ac16::t_3e4768b7936e7d 1-6
+esp32-radio/worker/src/client/radio/api.test.ts
+  s_ee85203726ac16::t_378eb3ed807d30 1-52
+esp32-radio/firmware/vendor/str0m/src/format/codec_config.rs
+  s_ee85203726ac16::t_49b4474e6c6c1a 1-1633
+esp32-radio/firmware/vendor/str0m/tests/contiguous.rs
+  s_ee85203726ac16::t_b70cb220880b8b 1-246
+esp32-radio/scripts/monitor_device.py
+  s_ee85203726ac16::t_f74d8cb876d17c 1-135
+esp32-radio/firmware/vendor/sctp-proto/Cargo.lock
+  s_ee85203726ac16::t_af5ddd704268f7 1-231
+esp32-radio/firmware/crates/radio-webrtc/src/channels.rs
+  s_ee85203726ac16::t_f83c71c73d5f18 1-157
+esp32-radio/firmware/vendor/str0m/src/sctp/mod.rs
+  s_ee85203726ac16::t_98928d471fe503 1-1892
+esp32-radio/firmware/vendor/str0m/src/packet/h266_profile.rs
+  s_ee85203726ac16::t_35277b52fd223c 1-405
+esp32-radio/firmware/vendor/str0m/src/_internal_test_exports/fuzz.rs
+  s_ee85203726ac16::t_b337a8ee1e2601 1-246
+esp32-radio/firmware/vendor/str0m-rust-crypto/src/sha1.rs
+  s_ee85203726ac16::t_0d0917caffddf9 1-36
+esp32-radio/firmware/vendor/str0m/tests/rtp-direct-mid.rs
+  s_ee85203726ac16::t_e9c6621804f148 1-111
+esp32-radio/firmware/vendor/sctp-proto/src/endpoint/mod.rs
+  s_ee85203726ac16::t_00b9d410a73880 1-706
+esp32-radio/firmware/vendor/str0m/src/packet/null.rs
+  s_ee85203726ac16::t_3bced1c6464b89 1-43
+esp32-radio/firmware/crates/radio-core/src/now_playing.rs
+  s_ee85203726ac16::t_64186ae18f6dad 1-71
+esp32-radio/scripts/flash_device.py
+  s_ee85203726ac16::t_11ed8186b889cf 1-63
+esp32-radio/firmware/crates/esp32-radio/src/app.rs
+  s_ee85203726ac16::t_ba715bd6f856b1 1-97
+esp32-radio/firmware/vendor/sctp-proto/src/chunk/chunk_init.rs
+  s_ee85203726ac16::t_8f1fca08278c5b 1-285
+esp32-radio/firmware/vendor/str0m/docs/dtls.md
+  s_ee85203726ac16::t_b3f6101f825ad1 1-15
+catalog.yaml
+  s_ee85203726ac16::t_5498e5751d235d 62-85,87-89
+  s_ee85203726ac16::t_cae43065c3fef3 86
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "8a3f6a90cd062076a3e1c94f372b063f5d22af04",
+  "prompts": {},
+  "sessions": {
+    "s_ee85203726ac16": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0a1ec-c8f8-72e0-aa67-325636e7f093",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Rachel Chen <rchen@cloudflare.com>"
+    }
+  }
+}
