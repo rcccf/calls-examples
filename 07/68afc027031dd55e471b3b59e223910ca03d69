@@ -1,0 +1,19 @@
+esp32-radio/README.md
+  s_ee85203726ac16::t_ee55644db15cfd 15-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "0768afc027031dd55e471b3b59e223910ca03d69",
+  "prompts": {},
+  "sessions": {
+    "s_ee85203726ac16": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0a1ec-c8f8-72e0-aa67-325636e7f093",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Rachel Chen <rchen@cloudflare.com>"
+    }
+  }
+}
