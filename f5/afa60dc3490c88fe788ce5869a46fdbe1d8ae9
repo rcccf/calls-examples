@@ -1,0 +1,105 @@
+video-room/AGENTS.md
+  s_2a6eea9fd6e8c6::t_924af5583f70e7 13-15,21-22,80-83,95-98
+video-room/tests/unit/api.test.ts
+  s_2a6eea9fd6e8c6::t_6e6f7e640577fa 162-163
+  s_2a6eea9fd6e8c6::t_0cfbd353dc1973 1-161
+video-room/src/client/main.ts
+  s_2a6eea9fd6e8c6::t_56d4bc25695976 10,21,25,53,107,121,123-132,144-146,149,197,207,220,241-243,259,264,267-275,279-280,332,381-382,400,411-423,436,439,545-555,557-563,566-569,597,601,636-638,642
+  s_2a6eea9fd6e8c6::t_46f5fb4ab9e6e1 199-202
+video-room/README.md
+  s_2a6eea9fd6e8c6::t_924af5583f70e7 42-43
+video-room/src/server/room.ts
+  s_2a6eea9fd6e8c6::t_7aeb4c48deed41 2,4,6-7,10,112,172,207,265,320,329,338,439,608-613,615
+video-room/tests/live/video-room.spec.ts
+  s_2a6eea9fd6e8c6::t_4a03114b966126 45-49,54-56
+  s_2a6eea9fd6e8c6::t_b1b2fd5a1d9822 15
+  s_2a6eea9fd6e8c6::t_46f5fb4ab9e6e1 43-44,50-53
+video-room/src/server/lifecycle-queue.ts
+  s_2a6eea9fd6e8c6::t_81579461bda71a 25
+video-room/src/client/mutation-queue.ts
+  s_2a6eea9fd6e8c6::t_325a0712b6f672 6,8-9,22,31,33-34,70-71
+video-room/src/shared/protocol.ts
+  s_2a6eea9fd6e8c6::t_d9ff2ceaca71f8 1,8-138
+  s_2a6eea9fd6e8c6::t_89026bea773adf 139,141-158
+video-room/package-lock.json
+  s_2a6eea9fd6e8c6::t_b1581c410463ed 11-13,583-592,3014-3022,4844-4846
+video-room/tests/unit/session-mutation-queue.test.ts
+  s_2a6eea9fd6e8c6::t_fdfcbdc3a3b0d9 10,171-199,216-217
+video-room/tests/unit/lifecycle.test.ts
+  s_2a6eea9fd6e8c6::t_a6fb7acdee7589 84,87-90,104,106
+video-room/tests/unit/realtime.test.ts
+  s_2a6eea9fd6e8c6::t_e1cd28813fcae5 7,21,31,67-68,72-74,78,101,117,132
+video-room/tests/unit/room-restoration.test.ts
+  s_2a6eea9fd6e8c6::t_861a15dbea3e92 1-114
+video-room/package.json
+  s_2a6eea9fd6e8c6::t_10154ab301d9d0 21-23
+video-room/tests/unit/media.test.ts
+  s_2a6eea9fd6e8c6::t_a44e15a2671a7d 1-134
+video-room/src/server/realtime.ts
+  s_2a6eea9fd6e8c6::t_dc89d1286a4a42 1-5,12-32,34-38,44,48,154,158-160,167,173,184,202,207,210,214,266-316,318-319,322-330,377-378
+video-room/src/client/lifecycle.ts
+  s_2a6eea9fd6e8c6::t_e002534a145839 10,13,134,136-137,140
+video-room/tests/unit/notifications.test.ts
+  s_2a6eea9fd6e8c6::t_30f8fba5dff4a6 9,59,95-96,112-125,128-139,141-145,147-154,162,169
+video-room/src/server/http.ts
+  s_2a6eea9fd6e8c6::t_35f0664e5550c6 1-75
+  s_2a6eea9fd6e8c6::t_6573dc028b3b06 76-88
+video-room/src/server/room-media.ts
+  s_2a6eea9fd6e8c6::t_b2b0fe4d07d8e0 2,4,6,11-12,14,16,55,73,79-80,87,89-91,94,97,137,144,197,204-210,232-238,246-248,256,261,342,344,354,380,383,396-409,451-459,461,463-464,468-469,488,494,565,574-583,585
+video-room/src/worker.ts
+  s_2a6eea9fd6e8c6::t_0a9efc4a6b894b 45-48
+  s_2a6eea9fd6e8c6::t_795b14de9631c5 125
+  s_2a6eea9fd6e8c6::t_d03c5318aabef7 177-184,186-192,194-200,203-212,214-225,227-231,234-235,237-241,244-249,252-257
+  s_2a6eea9fd6e8c6::t_4a946f1df75715 1-5,12,14,17-22,28-36,39-40,42-44,49-62,64-87,89-124,126-163,165,167-176
+video-room/tests/unit/room-harness.ts
+  s_2a6eea9fd6e8c6::t_75ebf85d1bcff8 4,20,26,29,39,46,80,105-106,109-110
+video-room/src/server/session-mutation-queue.ts
+  s_2a6eea9fd6e8c6::t_ce134f4c38249d 133,147-148,254,256
+video-room/tests/unit/room-lifecycle.test.ts
+  s_2a6eea9fd6e8c6::t_8142e1a7b11bdb 592-620
+video-room/src/server/video-room.ts
+  s_2a6eea9fd6e8c6::t_cf0662191c5b2d 5-9,35,78,87,127,136,145,170,225-226
+video-room/src/client/media.ts
+  s_2a6eea9fd6e8c6::t_b49801863a115a 18-19,44,46-54,56,75,159
+video-room/tests/workerd/video-room.test.ts
+  s_2a6eea9fd6e8c6::t_795b14de9631c5 59,61,63
+video-room/src/client/notifications.ts
+  s_2a6eea9fd6e8c6::t_6b0990f23664b7 4,34-52,54,56-63,65-66,68-70,74-78,80-82,84-85,87-91,94,98-99,101,104-108,118-119
+video-room/src/client/background.ts
+  s_2a6eea9fd6e8c6::t_363ada84f557e5 1-108
+video-room/tests/workerd/http.test.ts
+  s_2a6eea9fd6e8c6::t_6e6f7e640577fa 2,87-108
+  s_2a6eea9fd6e8c6::t_a5dcf5e764ccbf 161-187,189-190,192-201,216,225,227
+  s_2a6eea9fd6e8c6::t_0a9efc4a6b894b 1,3-86,109-160,188,191
+  s_2a6eea9fd6e8c6::t_40970e029f6ba1 202-215,217-224,226,228-243
+video-room/tests/unit/room-media.test.ts
+  s_2a6eea9fd6e8c6::t_9dd487eea91d97 4,213,233,259-260,286-329
+video-room/ARCHITECTURE.md
+  s_2a6eea9fd6e8c6::t_924af5583f70e7 60-62,86-93,96-97,101-109
+  s_2a6eea9fd6e8c6::t_ceaa4216663e76 110
+  s_2a6eea9fd6e8c6::t_46f5fb4ab9e6e1 198-201
+video-room/TROUBLESHOOTING.md
+  s_2a6eea9fd6e8c6::t_924af5583f70e7 17-19
+video-room/src/server/notifications.ts
+  s_2a6eea9fd6e8c6::t_c648e9991c77fb 1-2,12-15,41-43,49-50
+video-room/src/client/api.ts
+  s_2a6eea9fd6e8c6::t_b1f189a6cc4312 1-2,6-13,53,69,79-82,86-89,93-96,106,109,122,135,143,151,158,160,168,180-195,197-199,201-204,208-210
+video-room/tests/unit/background.test.ts
+  s_2a6eea9fd6e8c6::t_6c96f65ecdc94e 1-166
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "f5afa60dc3490c88fe788ce5869a46fdbe1d8ae9",
+  "prompts": {},
+  "sessions": {
+    "s_2a6eea9fd6e8c6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0a285-2b2d-7762-a3ca-ac201ad9a0c9",
+        "model": "gpt-6-astra"
+      },
+      "human_author": null
+    }
+  }
+}
