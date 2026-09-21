@@ -1,0 +1,39 @@
+esp32-radio/ARCHITECTURE.md
+  s_8b87deab2c186f::t_07826ec52df0c3 78-84,101,103,114,130-132,134-157
+esp32-radio/ERRATA.md
+  s_8b87deab2c186f::t_bf82250b7c0aac 93-98,101-105
+esp32-radio/PRODUCTION.md
+  s_8b87deab2c186f::t_413404939397e3 68-69,76-82,104-105
+esp32-radio/README.md
+  s_8b87deab2c186f::t_152be879a29c22 155-156,170-171
+esp32-radio/TROUBLESHOOTING.md
+  s_8b87deab2c186f::t_e08433a5263542 24,27,31-32
+esp32-radio/UPSTREAM.md
+  s_8b87deab2c186f::t_b7cf4e70bd551c 7-13
+esp32-radio/firmware/docs/sfu.md
+  s_8b87deab2c186f::t_6956f84e5991b8 23-27,48-49,114-116
+esp32-radio/worker/README.md
+  s_8b87deab2c186f::t_bbb874274df8e4 81-87
+esp32-radio/worker/tests/bundle.test.mjs
+  s_8b87deab2c186f::t_7b3deb8ceccae1 6,10-13,33,35-41
+esp32-radio/worker/tests/runtime/cleanup.test.ts
+  s_8b87deab2c186f::t_60c4ef2fd2f581 1-2,45,65,100-125,127-133,138-151,153-188
+esp32-radio/worker/tests/runtime/publisher.test.ts
+  s_8b87deab2c186f::t_a40b787c514a8f 76-170
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "ebca1fcfaf20cecde682e5aa3d89c8b7d1a6ec60",
+  "prompts": {},
+  "sessions": {
+    "s_8b87deab2c186f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0c416-74f6-71c3-ba9f-3dc03ac9bf65",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Rachel Chen <rchen@cloudflare.com>"
+    }
+  }
+}
